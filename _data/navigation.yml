@@ -1,19 +1,28 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Tank Lab
+  url: /tank-lab/
 
-- title: Articles
-  url: /articles/
+- title: People
+  url: /people/
 
-- title: Blog
-  url: /blog/
+- title: Research
+  url: /research/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: News
+  url: /news/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Publications
+  url: https://scholar.google.com/citations?hl=en&user=47RNZ3MAAAAJ&sortby=pubdate
+
+- title: Teaching
+  url: /teaching/
+
+- title: Prospective Students
+  url: /prospective-students/
+  
+- title: Contact
+  url: /contact/
 
 - title: Search
   url: /search/
