@@ -9,6 +9,8 @@ image:
 ---
 # Molecular Plant Systematics & Evolution
 
+The Tank Lab is in the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology) at the [University of Idaho](http://www.uidaho.edu), and is affiliated with the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.ibest.uidaho.edu) and the [*Stillinger Herbarium*](http://www.uidaho.edu/herbarium).
+
 Research in the Tank Lab focuses on the use of molecular methods to reconstruct evolutionary  histories in plants and the application of phylogenetic and phylogeographic methods to understand plant evolution. 
 
 Research in the lab focuses on multiple levels of plant phylogeny from the systematics and evolution of closely related groups of species to macroevolutionary patterns of diversification in angiosperms.   
