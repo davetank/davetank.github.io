@@ -9,14 +9,6 @@ image:
 ---
 # Molecular Plant Systematics & Evolution
 
-### University of Idaho
-
-#### Department of Biological Sciences
-
-#### Stillinger Herbarium
-
-#### Institute for Bioinformatics and Evolutionary Studies
-
 Research in the Tank Lab focuses on the use of molecular methods to reconstruct evolutionary  histories in plants and the application of phylogenetic and phylogeographic methods to understand plant evolution. 
 
 Research in the lab focuses on multiple levels of plant phylogeny from the systematics and evolution of closely related groups of species to macroevolutionary patterns of diversification in angiosperms.   
