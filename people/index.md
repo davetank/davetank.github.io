@@ -8,11 +8,13 @@ image:
   credit: D. Tank
 ---
 
-![David C. Tank]({{ site.url }}/images/Tank-teaching.jpg)
+![David C. Tank]({{ site.url }}/images/bio-photo-Tank.jpg)
 {: .pull-right}
 
 ### David C. Tank
 My goal as an advisor is to help graduate students become broadly trained in plant systematics and & phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions.
+
+View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV](link-to-pdf.pdf)
 
 ### Postdoctoral Researchers
 ![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
@@ -22,6 +24,18 @@ My goal as an advisor is to help graduate students become broadly trained in pla
 
 Maribeth is working on the diversification of the perennial clade of <i>Castilleja</i> (Orobanchaceae) in western North America.
 
+email: mlatvis [at] uidaho.edu
+
+### Graduate Students
+![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
+{: .pull-right}
+
+**Hannah Marx** - Hannah is from Vancouver, WA and joined the lab in in the fall of 2011.
+
+Hannah is a PhD student in the Bioinformatics and Computational Biology program working on the use of community phylogenetic methods to understand community dynamics at varying spatial and temporal scales.
+
+email: marx6272 [at] vandals.uidaho.edu
+  web: [www.hannahmarx.com](http://www.hannahmarx.com/)
 
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
