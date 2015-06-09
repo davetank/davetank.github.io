@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Tank Lab @ UIdaho Molecular Plant Systematics & Evolution
+title: Tank Lab @ UIdaho
 excerpt: "Plant Molecular Systematics & Evolution at the University of Idaho"
 modified: 2015-06-06T02:41:00
 image:
   feature: Castilleja-pumila.jpg
   credit: D. Tank
 ---
+# Molecular Plant Systematics & Evolution
 
 Research in the Tank Lab focuses on the use of molecular methods to reconstruct evolutionary  histories in plants and the application of phylogenetic and phylogeographic methods to understand plant evolution. 
 
