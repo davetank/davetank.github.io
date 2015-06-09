@@ -42,7 +42,7 @@ marx6272 [at] vandals.uidaho.edu; @marxhannah; [www.hannahmarx.com](http://www.h
 
 **Diego Morales-Briones** - Diego is from Quito, Ecuador and began working on his Ph.D. in January of 2012.
 
-Diego is a Biology graduate student working on the systematics, evolution, and adaptive radiation of the genus <i>Lachemilla</i> (Rosaceae) in the páramos of Andean South America. 
+Diego is a Biology graduate student working on the systematics, evolution, and adaptive radiation of the genus <i>Lachemilla</i> (Rosaceae) in the páramos of Andean South America, and the historical biogeography of <i>Lachemilla</i>, <i>Alchemilla</i>, and <i>Aphanes</i>.
 
 mora5394 [at] vandals.uidaho.edu; @dfmoralesb
 
