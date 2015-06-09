@@ -7,11 +7,10 @@ image:
   feature: Castilleja-vadosa.jpg
   credit: D. Tank
 ---
-
+### David C. Tank
 ![David C. Tank]({{ site.url }}/images/bio-photo-Tank.jpg)
 {: .pull-right}
 
-### David C. Tank
 My goal as an advisor is to help graduate students become broadly trained in plant systematics and & phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions.
 
 View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV](link-to-pdf.pdf)
