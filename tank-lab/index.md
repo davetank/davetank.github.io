@@ -27,8 +27,8 @@ Check out the [**research page**]({{ site.url }}/research.html) to learn more ab
 
 ## Links
 
-| - uidaho.edu - | - projects - | - societies - |
-|:--------|:-------:|--------:|
+| -uidaho.edu- | -projects- | -societies- |
+|:--------|:-------:|:--------|
 | [Biological Sciences](http://www.uidaho.edu/sci/biology)   | [Consortium of PNW Herbaria](http://pnwherbaria.org/)   | [SSB](http://systbiol.org/)   |
 | [Stillinger Herbarium](http://www.uidaho.edu/herbarium)   | [BEACON](http://beacon-center.org/)   | [BSA](http://www.botany.org/)   |
 |----
