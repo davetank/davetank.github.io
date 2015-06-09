@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Dave Tank
-  avatar: bio-photo.jpg
+  avatar: bio-photo-Tank.jpg
   email: dtank@uidaho.edu
   disqus-shortname:
   twitter: dave_tank
@@ -46,7 +46,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: +DaveTank1
+    plus: DaveTank1
     analytics:
     verify:
     ad-client:
