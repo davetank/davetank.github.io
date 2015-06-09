@@ -9,11 +9,11 @@ image:
 ---
 # Molecular Plant Systematics & Evolution
 
-The Tank Lab is in the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology) at the [University of Idaho](http://www.uidaho.edu), and is affiliated with the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.ibest.uidaho.edu) and the [*Stillinger Herbarium*](http://www.uidaho.edu/herbarium).
+The Tank Lab is in the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology) at the [*University of Idaho*](http://www.uidaho.edu), and is affiliated with the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.ibest.uidaho.edu) and the [*Stillinger Herbarium*](http://www.uidaho.edu/herbarium).
 
 Research in the Tank Lab focuses on the use of molecular methods to reconstruct evolutionary  histories in plants and the application of phylogenetic and phylogeographic methods to understand plant evolution. 
 
-Research in the lab focuses on multiple levels of plant phylogeny from the systematics and evolution of closely related groups of species to macroevolutionary patterns of diversification in angiosperms.   
+Our work focuses on multiple levels of plant phylogeny, from the systematics and evolution of closely related groups of species to macroevolutionary patterns of diversification in angiosperms.   
 
 Check out the [**research page**]({{ site.url }}/research.html) to learn more about how we use phylogenies to address evolutionary questions in plants and to better understand plant biodiversity.
 
@@ -25,14 +25,17 @@ Check out the [**research page**]({{ site.url }}/research.html) to learn more ab
 {% endfor %}
 </ul>
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+## Links
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+| uidaho.edu | projects | societies |
+|:--------|:-------:|--------:|
+| [Department of Biological Sciences](http://www.uidaho.edu/sci/biology)   | [Consortium of Pacific Northwest Herbaria](http://pnwherbaria.org/)   | [Society of Systematic Biologists](http://systbiol.org/)   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3   |
+{: .table}
 
 [^1]: Example: *domain.com/category-name/post-title*
