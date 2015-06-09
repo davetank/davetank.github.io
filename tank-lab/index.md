@@ -34,7 +34,7 @@ Check out the [**research page**]({{ site.url }}/research.html) to learn more ab
 |----
 | [Institute for Bioinformatics and Evolutionary Studies](http://www.ibest.uidaho.edu)   | [iPlant Collaborative](http://www.iplantcollaborative.org)   | [American Society of Plant Taxonomists](http://www.aspt.net/)   |
 | [Bioinformatics and Computational Biology](http://www.uidaho.edu/cogs/bcb)   | [My-Plant](https://my-plant.org)   | [International Society for Phylogenetic Nomenclature](http://phylonames.org/)   |
-|=====
+|----
 | [Graduate Admissions](http://www.uidaho.edu/cogs/admissions)   | [phylodiversity network](http://phylodiversity.net/)   | [Society of Herbarium Curators](http://www.herbariumcurators.org/)   |
 {: .table}
 
