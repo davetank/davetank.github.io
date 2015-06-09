@@ -1,13 +1,23 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: People
+excerpt: "Current and past Tank Lab members."
+modified: 2015-06-08T19:44:38
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Castilleja-vadosa.jpg
+  credit: D. Tank
 ---
+
+### David C. Tank
+
+![David C. Tank]({{ site.url }}/images/Tank-teaching.jpg)
+{: .pull-right}
+
+My goal as an advisor is to help graduate students become broadly trained in plant systematics and & phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions.
+
+
+
+
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 

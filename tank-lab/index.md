@@ -17,7 +17,7 @@ Our work focuses on multiple levels of plant phylogeny, from the systematics and
 
 Check out the [**research page**]({{ site.url }}/research.html) to learn more about how we use phylogenies to address evolutionary questions in plants and to better understand plant biodiversity.
 
-## Recent lab news:
+## Recent lab news
 
 <ul class="post-list">
 {% for post in site.posts limit:10 %} 
