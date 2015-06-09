@@ -37,6 +37,27 @@ Hannah is a PhD student in the Bioinformatics and Computational Biology program 
 
 marx6272 [at] vandals.uidaho.edu; @marxhannah; [www.hannahmarx.com](http://www.hannahmarx.com/)
 
+![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
+{: .pull-right}
+
+**Diego Morales-Briones** - Diego is from Quito, Ecuador and began working on his Ph.D. in January of 2012.
+
+Diego is a graduate student in Biological Sciences working on the systematics, evolution, and adaptive radiation of the genus <i>Lachemilla</i> (Rosaceae) in Andean South America.
+
+mora5394 [at] vandals.uidaho.edu; @dfmoralesb
+
+![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
+{: .pull-right}
+
+**Sarah Jacobs** - Sarah is from Arkansas, but has been on the Palouse for several years - she completed a MS across the border at Washington State University working on the phylogeny of <i>Hydrangea</i>. Sarah joined the lab as a Ph.D. student in August of 2012.
+ 
+Sarah is working on species delimitation and diversification dynamics of several species complexes in <i>Castilleja</i> (Orobanchaceae).
+
+jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj
+
+
+
+
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
