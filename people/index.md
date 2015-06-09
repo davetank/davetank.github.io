@@ -15,7 +15,7 @@ My goal as an advisor is to help graduate students become broadly trained in pla
 
 View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV](link-to-pdf.pdf)
 
-dtank [at]uidaho.edu; @dave_tank
+dtank [at] uidaho.edu; @dave_tank
 
 ### Postdoctoral Researchers
 ![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
@@ -42,14 +42,14 @@ marx6272 [at] vandals.uidaho.edu; @marxhannah; [www.hannahmarx.com](http://www.h
 
 **Diego Morales-Briones** - Diego is from Quito, Ecuador and began working on his Ph.D. in January of 2012.
 
-Diego is a graduate student in Biological Sciences working on the systematics, evolution, and adaptive radiation of the genus <i>Lachemilla</i> (Rosaceae) in Andean South America.
+Diego is a Biology graduate student working on the systematics, evolution, and adaptive radiation of the genus <i>Lachemilla</i> (Rosaceae) in the páramos of Andean South America. 
 
 mora5394 [at] vandals.uidaho.edu; @dfmoralesb
 
 ![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
 {: .pull-right}
 
-**Sarah Jacobs** - Sarah is from Arkansas, but has been on the Palouse for several years - she completed a MS across the border at Washington State University working on the phylogeny of <i>Hydrangea</i>. Sarah joined the lab as a Ph.D. student in August of 2012.
+**Sarah Jacobs** - Sarah is from Arkansas, but has been on the Palouse for several years - she completed a MS across the border at Washington State University working on the phylogeny of <i>Hydrangea</i>. Sarah joined the lab as a Biology Ph.D. student in August of 2012.
  
 Sarah is working on species delimitation and diversification dynamics of several species complexes in <i>Castilleja</i> (Orobanchaceae).
 
