@@ -36,6 +36,7 @@ email: mlatvis [at] uidaho.edu
 Hannah is a PhD student in the Bioinformatics and Computational Biology program working on the use of community phylogenetic methods to understand community dynamics at varying spatial and temporal scales.
 
 email: marx6272 [at] vandals.uidaho.edu
+
 web: [www.hannahmarx.com](http://www.hannahmarx.com/)
 
 
