@@ -27,13 +27,13 @@ Check out the [**research page**]({{ site.url }}/research.html) to learn more ab
 
 ## Links
 
-| uidaho.edu | projects | societies |
+| - uidaho.edu - | - projects - | - societies - |
 |:--------|:-------:|--------:|
-| [Department of Biological Sciences](http://www.uidaho.edu/sci/biology)   | [Consortium of Pacific Northwest Herbaria](http://pnwherbaria.org/)   | [Society of Systematic Biologists](http://systbiol.org/)   |
-| cell4   | cell5   | cell6   |
+| [Biological Sciences](http://www.uidaho.edu/sci/biology)   | [Consortium of PNW Herbaria](http://pnwherbaria.org/)   | [SSB](http://systbiol.org/)   |
+| [Stillinger Herbarium](http://www.uidaho.edu/herbarium)   | [BEACON](http://beacon-center.org/)   | [BSA](http://www.botany.org/)   |
 |----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| [IBEST](http://www.ibest.uidaho.edu)   | [iPlant Collaborative](http://www.iplantcollaborative.org)   | [ASPT](http://www.aspt.net/)   |
+| [BCB](http://www.uidaho.edu/cogs/bcb)   | [My-Plant](https://my-plant.org)   | [ISPN](http://phylonames.org/)   |
 |=====
 | Foot1   | Foot2   | Foot3   |
 {: .table}
