@@ -28,14 +28,14 @@ Check out the [**research page**]({{ site.url }}/research.html) to learn more ab
 ## Links
 
 | uidaho.edu | projects | societies |
-|:--------|:-------:|:--------|
-| [Biological Sciences](http://www.uidaho.edu/sci/biology)   | [Consortium of PNW Herbaria](http://pnwherbaria.org/)   | [Society of Systematic Biologists](http://systbiol.org/)   |
-| [Stillinger Herbarium](http://www.uidaho.edu/herbarium)   | [BEACON](http://beacon-center.org/)   | [Botanical Society of America](http://www.botany.org/)   |
+|:--------|:-------|:--------|
+| [Biological Sciences](http://www.uidaho.edu/sci/biology)   | [Consortium of Pacific Northwest Herbaria](http://pnwherbaria.org/)   | [Society of Systematic Biologists](http://systbiol.org/)   |
+| [Stillinger Herbarium](http://www.uidaho.edu/herbarium)   | [BEACON Center](http://beacon-center.org/)   | [Botanical Society of America](http://www.botany.org/)   |
 |----
-| [IBEST](http://www.ibest.uidaho.edu)   | [iPlant Collaborative](http://www.iplantcollaborative.org)   | [American Society of Plant Taxonomists](http://www.aspt.net/)   |
+| [Institute for Bioinformatics and Evolutionary Studies](http://www.ibest.uidaho.edu)   | [iPlant Collaborative](http://www.iplantcollaborative.org)   | [American Society of Plant Taxonomists](http://www.aspt.net/)   |
 | [Bioinformatics and Computational Biology](http://www.uidaho.edu/cogs/bcb)   | [My-Plant](https://my-plant.org)   | [International Society for Phylogenetic Nomenclature](http://phylonames.org/)   |
 |=====
-| Foot1   | Foot2   | Foot3   |
+| [Graduate Admissions](http://www.uidaho.edu/cogs/admissions)   | [phylodiversity network](http://phylodiversity.net/)   | [Society of Herbarium Curators](http://www.herbariumcurators.org/)   |
 {: .table}
 
 [^1]: Example: *domain.com/category-name/post-title*
