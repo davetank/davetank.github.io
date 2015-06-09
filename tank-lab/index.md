@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to the lab page of Dave Tank @ UIdaho
+title: Tank Lab @ UIdaho Molecular Plant Systematics & Evolution
 excerpt: "Plant Molecular Systematics & Evolution at the University of Idaho"
 modified: 2015-06-06T02:41:00
 image:
