@@ -15,6 +15,8 @@ My goal as an advisor is to help graduate students become broadly trained in pla
 
 View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV](link-to-pdf.pdf)
 
+email: dtank [at]uidaho.edu
+
 ### Postdoctoral Researchers
 ![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
 {: .pull-right}
@@ -34,7 +36,7 @@ email: mlatvis [at] uidaho.edu
 Hannah is a PhD student in the Bioinformatics and Computational Biology program working on the use of community phylogenetic methods to understand community dynamics at varying spatial and temporal scales.
 
 email: marx6272 [at] vandals.uidaho.edu
-  web: [www.hannahmarx.com](http://www.hannahmarx.com/)
+web: [www.hannahmarx.com](http://www.hannahmarx.com/)
 
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
