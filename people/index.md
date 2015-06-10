@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Current Lab Members
-excerpt: "Current and past Tank Lab members."
+excerpt: "Current and former Tank Lab members."
 modified: 2015-06-08T19:44:38
 image:
   feature: Castilleja-vadosa.jpg
   credit: D. Tank
 ---
+#### [former lab members]({{ site.url }}/people/former-lab-members.md)
+
 ### David C. Tank
 ![David C. Tank]({{ site.url }}/images/bio-photo-Tank.jpg)
 {: .pull-right}
