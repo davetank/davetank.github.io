@@ -7,7 +7,7 @@ image:
   feature: Castilleja-vadosa.jpg
   credit: D. Tank
 ---
-#### [former lab members]({{ site.url }}/people/former-lab-members.md)
+#### [former lab members]({{ site.url }}/people/former-lab-members.html)
 
 ### David C. Tank
 ![David C. Tank]({{ site.url }}/images/bio-photo-Tank.jpg)
