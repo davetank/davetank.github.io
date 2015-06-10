@@ -7,8 +7,6 @@ image:
   feature: Castilleja-vadosa.jpg
   credit: D. Tank
 ---
-#### [former lab members]({{ site.url }}/people/former-lab-members.html)
-
 ### David C. Tank
 ![David C. Tank]({{ site.url }}/images/bio-photo-Tank.jpg)
 {: .pull-right}
@@ -58,6 +56,7 @@ Sarah is working on species delimitation and diversification dynamics of several
 
 jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj
 
+#### [<u>Former Lab Members</u>]({{ site.url }}/people/former-lab-members.html)
 
 
 
