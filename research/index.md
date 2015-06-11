@@ -7,8 +7,6 @@ image:
   feature: Castilleja-litoralis.jpg
   credit: D. Tank
 ---
-{% include toc.html %}
-
 ### Molecular Systematics
 
 *This research addresses a range of questions including species delimitation, modes of speciation, the ecological and evolutionary consequences of polyploidy, climatic niche evolution, pollination biology, conservation, classification, and alpha taxonomy.*
