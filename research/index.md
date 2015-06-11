@@ -20,14 +20,18 @@ image:
 
 **Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/people.html) will be focused on this group.
 
-<img src="{{ site.url }}/images/Bartsia.jpg" alt="Bartsia peruviana" width="100" height="100">
+<figure>
+	<a href="{{ site.url }}/images/Bartsia.jpg"><img src="{{ site.url }}/images/Bartsia.jpg" alt="image" width="120" height="120"></a>
+</figure>
 {: .pull-right}
 
 **Evolution and systematics of <i>Bartsia</i> s.l. -** investigating the biogeography, evolution, and diversification of <i>Bartsia</i> in Andean South America, and placing this group in the context of the rest of the ‘European clade’ of Orobanchaceae. This was the dissertation research of former PhD student [*Simon Uribe-Convers*]({{ site.url }}/people/former-lab-members.html). 
 
 **Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  PhD student [*Diego Morales-Briones*]({{ site.url }}/people/people.html). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
 
-<img src="{{ site.url }}/images/Orobanchaceae1.jpg" alt="Orobanchaceae megaphylogeny" width="200" height="200">
+<figure>
+	<a href="{{ site.url }}/images/Orobanchaceae1.jpg"><img src="{{ site.url }}/images/Orobanchaceae1.jpg" alt="image" width="175" height="175"></a>
+</figure>
 {: .pull-right}
 
 **Angiosperm phylogeny & evolution -** In addition to species-level molecular systematic studies, we collaborate with other research groups on resolving some of the remaining outstanding questions in angiosperm phylogeny and to use these phylogenies to investigate evolutionary questions. My systematic expertise is mostly centered on the large, diverse asterid clade, and these collaborations include family-level systematics in Orobanchaceae and Verbenaceae, as well as the major lineages of the Lamiales and Campanulidae. 
@@ -36,12 +40,16 @@ image:
 
 *With the rapid accumulation of DNA sequence data and advances in computational efficiency, bigger, faster computers, and improved algorithms and programs, we are now in a position to build truly large phylogenetic trees. These trees provide a fresh perspective on comparative analyses at a much larger scale and are invaluable for assessing and directing future phylogenetic research.*
 
-<img src="{{ site.url }}/images/Orobanchaceae2.jpg" alt="Orobanchaceae phylogeny" width="200" height="179">
+<figure>
+	<a href="{{ site.url }}/images/Orobanchaceae2.jpg"><img src="{{ site.url }}/images/Orobanchaceae2.jpg" alt="image" width="175" height="156"></a>
+</figure>
 {: .pull-right}
 
 **Directing phylogenetic research -** I am fascinated by the question of how much do we know about the phylogenetic history of the major branches of the tree of life, and how can we best synthesize existing knowledge to provide a basis for identifying gaps in our understanding of phylogenetic relationships? As more and more sequence data accumulates in databases and methods for the reconstruction of large phylogenetic trees advance, we are at a point where we can begin to carry out comprehensive analyses that span multiple studies and provide a way to address these fundamental questions. 
 
-<img src="{{ site.url }}/images/Angiosperm-medusa.jpg" alt="Angiosperm diversification" width="200" height="200">
+<figure>
+	<a href="{{ site.url }}/images/Angiosperm-medusa2.jpg"><img src="{{ site.url }}/images/Angiosperm-medusa2.jpg" alt="image" width="200" height="131"></a>
+</figure>
 {: .pull-right}
 
 **Diversification dynamics in angiosperms -** investigating the diversification dynamics of this large and diverse clade in an attempt to answer the long standing question of why is the angiosperm lineage so diverse and why are some clades so much more diverse than others? To this end, we are using trees ranging from 640 taxa to more than 32,000 species, in combination with functional trait data compiled as part of the [*Tempo and Mode of Plant Trait Evolution*](http://www.nescent.org/science/awards_summary.php?id=269) working group at NESCent, to address this question with macroevolutionary analyses at unprecedented scales.
@@ -50,12 +58,16 @@ image:
 
 *By coupling evolutionary and ecological processes using phylogenies we aim to improve our understanding of community dynamics and our ability to predict directional changes in species composition and distributions caused by altered environmental and biotic scenarios.*
 
-<img src="{{ site.url }}/images/PNW-disjunct.jpg" alt="disjunct rainforests of the PNW" width="200" height="159">
+<figure>
+	<a href="{{ site.url }}/images/PNW-disjunct.jpg"><img src="{{ site.url }}/images/PNW-disjunct.jpg" alt="image" width="175" height="139"></a>
+</figure>
 {: .pull-right}
 
 **Comparative phylogeography of the inland temperate rainforest communities of the Pacific Northwest -** in collaboration with [*Jack Sullivan*](http://www.webpages.uidaho.edu/~jacks/) and [*Bryan Carstens*](http://carstenslab.org.ohio-state.edu/), this project is focused on the development of a predictive framework for the discovery of cryptic biodiversity that can be applied to entire ecosystems and uses the disjunct rainforests of the Pacific Northwest as a model system for extending comparative phylogeography.
 
-<img src="{{ site.url }}/images/San-Juan-phylogeny.jpg" alt="phylogeny of the San Juan flora" width="200" height="200">
+<figure>
+	<a href="{{ site.url }}/images/San-Juan-phylogeny2.jpg"><img src="{{ site.url }}/images/San-Juan-phylogeny2.jpg" alt="image" width="175" height="174"></a>
+</figure>
 {: .pull-right}
 
 **Community phylogenetics across scales and systems -** this encompasses several projects that comprise the dissertation research of PhD student [*Hannah Marx*]({{ site.url }}/people/people.html). Through collaborations with ecologists working in diverse 'island' systems ranging from alpine sky islands ([*Sébastien Lavergne*](http://seb.lavergne.free.fr)) to the flora of the San Juan Islands in the Puget Sound ([*University of Washington Herbarium*](http://biology.burke.washington.edu/herbarium/resources/sanjuanatlas.php)), this research investigates diversity dynamics in plant communities and integrates detailed information phylogenetic relatedness with measures of functional and genomic diversity. In addition, the variety of systems allows us to test the affect of scale on commonly used community phylogenetic metrics.
