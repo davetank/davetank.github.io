@@ -30,7 +30,7 @@ image:
 **Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  PhD student [*Diego Morales-Briones*]({{ site.url }}/people/people.html). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
 
 <figure>
-	<a href="{{ site.url }}/images/Orobanchaceae1.jpg"><img src="{{ site.url }}/images/Orobanchaceae1.jpg" alt="image" width="175" height="175"></a>
+	<a href="{{ site.url }}/images/Orobanchaceae1.jpg"><img src="{{ site.url }}/images/Orobanchaceae1.jpg" alt="image" width="125" height="125"></a>
 </figure>
 {: .pull-right}
 
@@ -41,14 +41,14 @@ image:
 *With the rapid accumulation of DNA sequence data and advances in computational efficiency, bigger, faster computers, and improved algorithms and programs, we are now in a position to build truly large phylogenetic trees. These trees provide a fresh perspective on comparative analyses at a much larger scale and are invaluable for assessing and directing future phylogenetic research.*
 
 <figure>
-	<a href="{{ site.url }}/images/Orobanchaceae2.jpg"><img src="{{ site.url }}/images/Orobanchaceae2.jpg" alt="image" width="175" height="156"></a>
+	<a href="{{ site.url }}/images/Orobanchaceae2.jpg"><img src="{{ site.url }}/images/Orobanchaceae2.jpg" alt="image" width="125" height="112"></a>
 </figure>
 {: .pull-right}
 
 **Directing phylogenetic research -** I am fascinated by the question of how much do we know about the phylogenetic history of the major branches of the tree of life, and how can we best synthesize existing knowledge to provide a basis for identifying gaps in our understanding of phylogenetic relationships? As more and more sequence data accumulates in databases and methods for the reconstruction of large phylogenetic trees advance, we are at a point where we can begin to carry out comprehensive analyses that span multiple studies and provide a way to address these fundamental questions. 
 
 <figure>
-	<a href="{{ site.url }}/images/Angiosperm-medusa2.jpg"><img src="{{ site.url }}/images/Angiosperm-medusa2.jpg" alt="image" width="200" height="131"></a>
+	<a href="{{ site.url }}/images/Angiosperm-medusa2.jpg"><img src="{{ site.url }}/images/Angiosperm-medusa2.jpg" alt="image" width="175" height="115"></a>
 </figure>
 {: .pull-right}
 
@@ -59,7 +59,7 @@ image:
 *By coupling evolutionary and ecological processes using phylogenies we aim to improve our understanding of community dynamics and our ability to predict directional changes in species composition and distributions caused by altered environmental and biotic scenarios.*
 
 <figure>
-	<a href="{{ site.url }}/images/PNW-disjunct.jpg"><img src="{{ site.url }}/images/PNW-disjunct.jpg" alt="image" width="175" height="139"></a>
+	<a href="{{ site.url }}/images/PNW-disjunct.jpg"><img src="{{ site.url }}/images/PNW-disjunct.jpg" alt="image" width="125" height="99"></a>
 </figure>
 {: .pull-right}
 
