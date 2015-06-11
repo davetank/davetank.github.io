@@ -11,7 +11,7 @@ image:
 
 *This research addresses a range of questions including species delimitation, modes of speciation, the ecological and evolutionary consequences of polyploidy, climatic niche evolution, pollination biology, conservation, classification, and alpha taxonomy.*
 
-<img src="{{ site.url }}/images/Castillejinae.jpg" alt="Castillejinae" width="200" height="162">
+<img src="{{ site.url }}/images/Castillejinae.jpg" alt="Castillejinae" width="150" height="122">
 {: .pull-right}
 
 **Diversification dynamics in Castillejinae -** correlating life history variation and chromosomal evolution to shifts in the rate of diversification in this species-rich group of primarily western North American plants.
