@@ -39,7 +39,7 @@ image:
 
 **Directing phylogenetic research -** I am fascinated by the question of how much do we know about the phylogenetic history of the major branches of the tree of life, and how can we best synthesize existing knowledge to provide a basis for identifying gaps in our understanding of phylogenetic relationships? As more and more sequence data accumulates in databases and methods for the reconstruction of large phylogenetic trees advance, we are at a point where we can begin to carry out comprehensive analyses that span multiple studies and provide a way to address these fundamental questions. 
 
-![Angiosperm diversification]({{ site.url }}/images/Angiosperm-medusa.jpg)
+![Angiosperm diversification]({{ site.url }}/images/Angiosperm-medusa2.jpg)
 {: .pull-right}
 
 **Diversification dynamics in angiosperms -** investigating the diversification dynamics of this large and diverse clade in an attempt to answer the long standing question of why is the angiosperm lineage so diverse and why are some clades so much more diverse than others? To this end, we are using trees ranging from 640 taxa to more than 32,000 species, in combination with functional trait data compiled as part of the [*Tempo and Mode of Plant Trait Evolution*](http://www.nescent.org/science/awards_summary.php?id=269) working group at NESCent, to address this question with macroevolutionary analyses at unprecedented scales.
