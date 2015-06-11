@@ -4,7 +4,7 @@ title: MinuteEarth on trees & freezing
 excerpt: "MinuteEarth video on how plants survive winter."
 modified: 2014-01-29
 categories: articles
-tags: [nescent, tempo and mode, cold tolerance, nature]
+tags: [MinuteEarth, tempo and mode, cold tolerance, nature]
 share: true
 ---
 <iframe width="640" height="390" src="https://www.youtube.com/embed/d260CmZoxj8" frameborder="0" allowfullscreen></iframe>
