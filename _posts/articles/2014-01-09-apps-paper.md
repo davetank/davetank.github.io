@@ -8,7 +8,7 @@ tags: [Simon Uribe-Convers, plastome, HTS, journal of ecology]
 share: true
 ---
 <figure>
-	<a href="{{ site.url }}/images/apps-plastome.jpg"><img src="{{ site.url }}/images/apps-plastome.jpg" alt="image"></a>
+	<a href="{{ site.url }}/images/apps-plastome.jpg"><img src="{{ site.url }}/images/apps-plastome.jpg" alt="image" width="750" height="766"></a>
 	<figcaption><a href="{{ site.url }}/images/apps-plastome.jpg" title="Uribe-Convers et al. 2014. <i>APPS</i>">Uribe-Convers et al. 2014. <i>APPS</i></a>.</figcaption>
 </figure>
 
