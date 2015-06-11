@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Functional distinctiveness in plants
-excerpt: "The 2nd paper from the NESCent tempo & mode of plant trait evolution group."
+excerpt: "The 2nd paper from the NESCent tempo & mode working group."
 modified: 2014-02-20
 categories: articles
 tags: [nescent, tempo and mode, traits, journal of ecology]
@@ -9,7 +9,7 @@ share: true
 ---
 <figure class="half">
 	<a href="{{ site.url }}/images/functional-distinctiveness.jpg"><img src="{{ site.url }}/images/functional-distinctiveness.jpg" alt="image" width="500" height="583"></a>
-	<a href="{{ site.url }}/images/J-Ecol-cover.jpg"><img src="{{ site.url }}/images/J-Ecol-cover.jpg" alt="image" width="445" height="583"></a>
+	<a href="{{ site.url }}/images/J-Ecol-cover.jpg"><img src="{{ site.url }}/images/J-Ecol-cover.jpg" alt="image" width="381" height="500"></a>
 	<figcaption>Cornwell et al. 2014. <i>J Ecol</i>.</figcaption>
 </figure>
 
