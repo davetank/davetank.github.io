@@ -30,51 +30,32 @@ image:
 
 **Angiosperm phylogeny & evolution -** In addition to species-level molecular systematic studies, we collaborate with other research groups on resolving some of the remaining outstanding questions in angiosperm phylogeny and to use these phylogenies to investigate evolutionary questions. My systematic expertise is mostly centered on the large, diverse asterid clade, and these collaborations include family-level systematics in Orobanchaceae and Verbenaceae, as well as the major lineages of the Lamiales and Campanulidae. 
 
+### Megaphylogenies & Macroevolution
 
-### Postdoctoral Researchers
-![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
+*With the rapid accumulation of DNA sequence data and advances in computational efficiency, bigger, faster computers, and improved algorithms and programs, we are now in a position to build truly large phylogenetic trees. These trees provide a fresh perspective on comparative analyses at a much larger scale and are invaluable for assessing and directing future phylogenetic research.*
+
+![Orobanchaceae phylogeny]({{ site.url }}/images/Orobanchaceae2.jpg)
 {: .pull-right}
 
-**Maribeth Latvis** - Maribeth completed her PhD at the University of Florida in 2013, and joined the lab in January, 2014. Her PhD focused on the systematics and evolution of the South American clade of <i>Agalinis</i> (Orobanchaceae).
+**Directing phylogenetic research -** I am fascinated by the question of how much do we know about the phylogenetic history of the major branches of the tree of life, and how can we best synthesize existing knowledge to provide a basis for identifying gaps in our understanding of phylogenetic relationships? As more and more sequence data accumulates in databases and methods for the reconstruction of large phylogenetic trees advance, we are at a point where we can begin to carry out comprehensive analyses that span multiple studies and provide a way to address these fundamental questions. 
 
-Maribeth is working on the diversification of the perennial clade of <i>Castilleja</i> (Orobanchaceae) in western North America.
-
-mlatvis [at] uidaho.edu; @MaribethLatvis
-
-### Graduate Students
-![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
+![Angiosperm diversification]({{ site.url }}/images/Angiosperm-medusa.jpg)
 {: .pull-right}
 
-**Hannah Marx** - Hannah is from Vancouver, WA and joined the lab in in the fall of 2011.
+**Diversification dynamics in angiosperms -** investigating the diversification dynamics of this large and diverse clade in an attempt to answer the long standing question of why is the angiosperm lineage so diverse and why are some clades so much more diverse than others? To this end, we are using trees ranging from 640 taxa to more than 32,000 species, in combination with functional trait data compiled as part of the [*Tempo and Mode of Plant Trait Evolution*](http://www.nescent.org/science/awards_summary.php?id=269) working group at NESCent, to address this question with macroevolutionary analyses at unprecedented scales.
 
-Hannah is a PhD student in the Bioinformatics and Computational Biology program working on the use of community phylogenetic methods to understand community dynamics at varying spatial and temporal scales.
+### Community Phylogenetics & Phylogeography
 
-marx6272 [at] vandals.uidaho.edu; @marxhannah; [www.hannahmarx.com](http://www.hannahmarx.com/)
+*By coupling evolutionary and ecological processes using phylogenies we aim to improve our understanding of community dynamics and our ability to predict directional changes in species composition and distributions caused by altered environmental and biotic scenarios.*
 
-![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
+![PNW disjuncts]({{ site.url }}/images/PNW-disjunct.jpg)
 {: .pull-right}
 
-**Diego Morales-Briones** - Diego is from Quito, Ecuador and began working on his Ph.D. in January of 2012.
+**Comparative phylogeography of the inland temperate rainforest communities of the Pacific Northwest -** in collaboration with [*Jack Sullivan*](http://www.webpages.uidaho.edu/~jacks/) and [*Bryan Carstens*](http://carstenslab.org.ohio-state.edu/), this project is focused on the development of a predictive framework for the discovery of cryptic biodiversity that can be applied to entire ecosystems and uses the disjunct rainforests of the Pacific Northwest as a model system for extending comparative phylogeography.
 
-Diego is a Biology graduate student working on the systematics, evolution, and adaptive radiation of the genus <i>Lachemilla</i> (Rosaceae) in the páramos of Andean South America, and the historical biogeography of <i>Lachemilla</i>, <i>Alchemilla</i>, and <i>Aphanes</i>.
-
-mora5394 [at] vandals.uidaho.edu; @dfmoralesb
-
-
-![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
+![San Juan phylogeny]({{ site.url }}/images/San-Juan-phylogeny.jpg)
 {: .pull-right}
 
-**Sarah Jacobs** - Sarah is from Arkansas, but has been on the Palouse for several years - she completed a MS across the border at Washington State University working on the phylogeny of <i>Hydrangea</i>. Sarah joined the lab as a Biology Ph.D. student in August of 2012.
- 
-Sarah is working on species delimitation and diversification dynamics of several species complexes in <i>Castilleja</i> (Orobanchaceae).
-
-jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj
-
-#### [<u>Former Lab Members</u>]({{ site.url }}/people/former-lab-members.html)
-
-
-
-
-
+**Community phylogenetics across scales and systems -** this encompasses several projects that comprise the dissertation research of PhD student [*Hannah Marx*]({{ site.url }}/people/people.html). Through collaborations with ecologists working in diverse 'island' systems ranging from alpine sky islands ([*Sébastien Lavergne*](http://seb.lavergne.free.fr)) to the flora of the San Juan Islands in the Puget Sound ([*University of Washington Herbarium*](http://biology.burke.washington.edu/herbarium/resources/sanjuanatlas.php)), this research investigates diversity dynamics in plant communities and integrates detailed information phylogenetic relatedness with measures of functional and genomic diversity. In addition, the variety of systems allows us to test the affect of scale on commonly used community phylogenetic metrics.
 
 [^1]: Example: *domain.com/category-name/post-title*
