@@ -7,7 +7,7 @@ categories: articles
 tags: [Simon Uribe-Convers, plastome, HTS, journal of ecology]
 share: true
 ---
-<figure class="half">
+<figure>
 	<a href="{{ site.url }}/images/maribeth.jpg"><img src="{{ site.url }}/images/maribeth.jpg" alt="image" width="500" height="286"></a>
 	<a href="{{ site.url }}/images/maribeth2.jpg"><img src="{{ site.url }}/images/maribeth2.jpg" alt="image" width="206" height="286"></a>
 	<figcaption>Maribeth Latvis</i>.</figcaption>
