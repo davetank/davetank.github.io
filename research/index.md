@@ -12,8 +12,8 @@ image:
 *This research addresses a range of questions including species delimitation, modes of speciation, the ecological and evolutionary consequences of polyploidy, climatic niche evolution, pollination biology, conservation, classification, and alpha taxonomy.*
 
 <figure>
-	<a href="{{ site.url }}/images/Castillejinae.jpg"><img src="{{ site.url }}/images/Castillejinae.jpg" alt="image" width="150" height="122"></a>
-	<figcaption><a href="{{ site.url }}/images/Castillejinae.jpg" title="Castillejinae">Castillejinae</a>.</figcaption>
+	<a href="{{ site.url }}/images/Castillejinae2.jpg"><img src="{{ site.url }}/images/Castillejinae2.jpg" alt="image" width="150" height="188"></a>
+	<figcaption><a href="{{ site.url }}/images/Castillejinae2.jpg" title="from Tank et al. 2009, <i>Sys Bot</i>">from Tank et al. 2009, <i>Sys Bot</i></a></figcaption>
 </figure>
 {: .pull-right}
 
