@@ -30,7 +30,7 @@ image:
 **Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  PhD student [*Diego Morales-Briones*]({{ site.url }}/people/people.html). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
 
 <figure>
-	<a href="{{ site.url }}/images/Orobanchaceae1.jpg"><img src="{{ site.url }}/images/Orobanchaceae1.jpg" alt="image" width="125" height="125"></a>
+	<a href="{{ site.url }}/images/Orobanchaceae1.jpg"><img src="{{ site.url }}/images/Orobanchaceae1.jpg" alt="image" width="150" height="150"></a>
 </figure>
 {: .pull-right}
 
@@ -41,7 +41,7 @@ image:
 *With the rapid accumulation of DNA sequence data and advances in computational efficiency, bigger, faster computers, and improved algorithms and programs, we are now in a position to build truly large phylogenetic trees. These trees provide a fresh perspective on comparative analyses at a much larger scale and are invaluable for assessing and directing future phylogenetic research.*
 
 <figure>
-	<a href="{{ site.url }}/images/Orobanchaceae2.jpg"><img src="{{ site.url }}/images/Orobanchaceae2.jpg" alt="image" width="125" height="112"></a>
+	<a href="{{ site.url }}/images/Orobanchaceae2.jpg"><img src="{{ site.url }}/images/Orobanchaceae2.jpg" alt="image" width="150" height="134"></a>
 </figure>
 {: .pull-right}
 
