@@ -30,7 +30,7 @@ image:
 **Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  PhD student [*Diego Morales-Briones*]({{ site.url }}/people/people.html). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
 
 <figure>
-	<a href="{{ site.url }}/images/Orobanchaceae1.jpg"><img src="{{ site.url }}/images/Orobanchaceae1.jpg" alt="image" width="150" height="150"></a>
+	<a href="{{ site.url }}/images/campanulid-biogeography.jpg"><img src="{{ site.url }}/images/campanulid-biogeography.jpg" alt="image" width="150" height="197"></a>
 </figure>
 {: .pull-right}
 
