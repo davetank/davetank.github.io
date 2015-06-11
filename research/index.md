@@ -12,7 +12,6 @@ image:
 *This research addresses a range of questions including species delimitation, modes of speciation, the ecological and evolutionary consequences of polyploidy, climatic niche evolution, pollination biology, conservation, classification, and alpha taxonomy.*
 
 <img src="{{ site.url }}/images/Castillejinae.jpg" alt="Castillejinae" width="200" height="162">
-![Castillejinae]({{ site.url }}/images/Castillejinae.jpg)
 {: .pull-right}
 
 **Diversification dynamics in Castillejinae -** correlating life history variation and chromosomal evolution to shifts in the rate of diversification in this species-rich group of primarily western North American plants.
@@ -40,7 +39,7 @@ image:
 
 **Directing phylogenetic research -** I am fascinated by the question of how much do we know about the phylogenetic history of the major branches of the tree of life, and how can we best synthesize existing knowledge to provide a basis for identifying gaps in our understanding of phylogenetic relationships? As more and more sequence data accumulates in databases and methods for the reconstruction of large phylogenetic trees advance, we are at a point where we can begin to carry out comprehensive analyses that span multiple studies and provide a way to address these fundamental questions. 
 
-<img src="{{ site.url }}/images/Angiosperm-medusa2.jpg" alt="Angiosperm diversification" width="200" height="200">
+<img src="{{ site.url }}/images/Angiosperm-medusa.jpg" alt="Angiosperm diversification" width="200" height="200">
 {: .pull-right}
 
 **Diversification dynamics in angiosperms -** investigating the diversification dynamics of this large and diverse clade in an attempt to answer the long standing question of why is the angiosperm lineage so diverse and why are some clades so much more diverse than others? To this end, we are using trees ranging from 640 taxa to more than 32,000 species, in combination with functional trait data compiled as part of the [*Tempo and Mode of Plant Trait Evolution*](http://www.nescent.org/science/awards_summary.php?id=269) working group at NESCent, to address this question with macroevolutionary analyses at unprecedented scales.
@@ -54,7 +53,7 @@ image:
 
 **Comparative phylogeography of the inland temperate rainforest communities of the Pacific Northwest -** in collaboration with [*Jack Sullivan*](http://www.webpages.uidaho.edu/~jacks/) and [*Bryan Carstens*](http://carstenslab.org.ohio-state.edu/), this project is focused on the development of a predictive framework for the discovery of cryptic biodiversity that can be applied to entire ecosystems and uses the disjunct rainforests of the Pacific Northwest as a model system for extending comparative phylogeography.
 
-<img src="{{ site.url }}/images/San-Juan-phylogeny" alt="phylogeny of the San Juan flora" width="200" height="200">
+<img src="{{ site.url }}/images/San-Juan-phylogeny.jpg" alt="phylogeny of the San Juan flora" width="200" height="200">
 {: .pull-right}
 
 **Community phylogenetics across scales and systems -** this encompasses several projects that comprise the dissertation research of PhD student [*Hannah Marx*]({{ site.url }}/people/people.html). Through collaborations with ecologists working in diverse 'island' systems ranging from alpine sky islands ([*Sébastien Lavergne*](http://seb.lavergne.free.fr)) to the flora of the San Juan Islands in the Puget Sound ([*University of Washington Herbarium*](http://biology.burke.washington.edu/herbarium/resources/sanjuanatlas.php)), this research investigates diversity dynamics in plant communities and integrates detailed information phylogenetic relatedness with measures of functional and genomic diversity. In addition, the variety of systems allows us to test the affect of scale on commonly used community phylogenetic metrics.
