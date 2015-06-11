@@ -10,8 +10,6 @@ share: true
 <figure class="half">
 	<a href="{{ site.url }}/images/functional-distinctiveness.jpg"><img src="{{ site.url }}/images/functional-distinctiveness.jpg" alt="image" width="500" height="583"></a>
 	<a href="{{ site.url }}/images/J-Ecol-cover.jpg"><img src="{{ site.url }}/images/J-Ecol-cover.jpg" alt="image" width="445" height="583"></a>
-	<img src="{{ site.url }}/images/functional-distinctiveness.jpg" alt="image">
-	<img src="{{ site.url }}/images/J-Ecol-cover.jpg" alt="image">
 	<figcaption>Cornwell et al. 2014. <i>J Ecol</i>.</figcaption>
 </figure>
 
