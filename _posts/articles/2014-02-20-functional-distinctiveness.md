@@ -8,8 +8,8 @@ tags: [nescent, tempo and mode, traits, journal of ecology]
 share: true
 ---
 <figure class="half">
-	<a href="{{ site.url }}/images/functional-distinctiveness.jpg"><img src="{{ site.url }}/images/functional-distinctiveness.jpg" alt="image" width="500" height="583"></a>
-	<a href="{{ site.url }}/images/J-Ecol-cover.jpg"><img src="{{ site.url }}/images/J-Ecol-cover.jpg" alt="image" width="381" height="500"></a>
+	<a href="{{ site.url }}/images/functional-distinctiveness.jpg"><img src="{{ site.url }}/images/functional-distinctiveness.jpg" alt="image"></a>
+	<a href="{{ site.url }}/images/J-Ecol-cover.jpg"><img src="{{ site.url }}/images/J-Ecol-cover.jpg" alt="image"></a>
 	<figcaption>Cornwell et al. 2014. <i>J Ecol</i>.</figcaption>
 </figure>
 
