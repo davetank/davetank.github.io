@@ -1,7 +1,7 @@
 ---
 layout: post
 title: APPS paper published
-excerpt: "Simon's paper on generating plastome sequences in angiosperms."
+excerpt: "Simon's paper on generating plastome sequences in angiosperms"
 modified: 2014-02-20
 categories: articles
 tags: [Simon Uribe-Convers, plastome, HTS, APPS]

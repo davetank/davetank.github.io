@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome, Maribeth!
-excerpt: "Dr. Maribeth Latvis joins the lab."
+excerpt: "Dr. Maribeth Latvis joins the lab"
 modified: 2014-01-06
 categories: articles
 tags: [Maribeth Latvis, postdoc, tank lab]

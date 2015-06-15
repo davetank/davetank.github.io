@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Former Lab Members
-excerpt: "Current and past Tank Lab members."
+excerpt: "Current and past Tank Lab members"
 modified: 2015-06-10T19:44:38
 ---
 ### Former Postdoctoral Researchers

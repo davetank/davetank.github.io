@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Functional distinctiveness in plants
-excerpt: "The 2nd paper from the NESCent tempo & mode working group."
+excerpt: "The 2nd paper from the NESCent tempo & mode working group"
 modified: 2014-02-20
 categories: articles
 tags: [nescent, tempo and mode, traits, journal of ecology]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Congruification paper published.
-excerpt: "Our approach for time scaling megaphylogenies published in MEE this week."
+excerpt: "Our approach for time scaling megaphylogenies published in MEE"
 modified: 2013-04-08
 categories: articles
 tags: [congruification, time tree, megaphylogeny, MEE, Jon Eastman, Luke Harmon]
@@ -9,7 +9,7 @@ share: true
 ---
 <figure class="half">
 	<a href="{{ site.url }}/images/MEE.jpg"><img src="{{ site.url }}/images/MEE.jpg" alt="image"></a>
-	<a href="{{ site.url }}/images/congruification.jpg"><img src="{{ site.url }}/images/congruification.jpg" alt="image"></a>
+	<a href="{{ site.url }}/images/Eastman-congruification.jpg"><img src="{{ site.url }}/images/Eastman-congruification.jpg" alt="image"></a>
 	<figcaption>Eastman, Harmon, and Tank. 2013. <i>MEE</i>.</figcaption>
 </figure>
 
