@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Congratulations, Diego!
-excerpt: "Congratulations to Diego Morales-Briones for his successful IAPT grant proposal!"
-modified: 2014-03-04
+title: Teacher of the Year!
+excerpt: "I am honored to be the 2012 College of Natural Resources Teacher of the Year!"
+modified: 2012-04-03
 categories: articles
-tags: [Diego Morales-Briones, grants, IAPT]
+tags: [Dave Tank, teaching award]
 share: true
 ---
 <figure>

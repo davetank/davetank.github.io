@@ -7,7 +7,7 @@ categories: articles
 tags: [Simon Uribe-Convers, NSF, DDIG, Bartsia]
 share: true
 ---
-<figure>
+<figure class="half">
 	<a href="{{ site.url }}/images/bio-photo-Uribe-Convers.jpg"><img src="{{ site.url }}/images/bio-photo-Uribe-Convers.jpg" alt="image"></a>
 	<a href="{{ site.url }}/images/bartsia-ddig.jpg"><img src="{{ site.url }}/images/bartsia-ddig.jpg" alt="image"></a>
 	<figcaption>Systematics of <i>Bartsia</i>.</figcaption>

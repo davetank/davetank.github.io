@@ -9,7 +9,6 @@ share: true
 ---
 <figure>
 	<a href="{{ site.url }}/images/pnwherbaria.jpg"><img src="{{ site.url }}/images/pnwherbaria.jpg" alt="image"></a>
-	<a href="{{ site.url }}/images/pnwherbaria.jpg"><img src="{{ site.url }}/images/pnwherbaria.jpg" alt="image"></a>
 	<figcaption>www.pnwherbaria.org.</figcaption>
 </figure>
 
