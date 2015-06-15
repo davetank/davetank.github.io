@@ -8,7 +8,7 @@ tags: [Dave Tank, teaching award]
 share: true
 ---
 <figure>
-	<a href="{{ site.url }}/images/tank-teaching.jpg"><img src="{{ site.url }}/images/tank-teaching.jpg" alt="image"></a>
+	<a href="{{ site.url }}/images/teaching.jpg"><img src="{{ site.url }}/images/teaching.jpg" alt="image"></a>
 	<figcaption>Teaching Dendrology.</figcaption>
 </figure>
 
