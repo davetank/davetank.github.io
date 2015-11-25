@@ -30,11 +30,11 @@ mlatvis [at] uidaho.edu; @MaribethLatvis
 ![Anahi Espindola]({{ site.url }}/images/bio-photo-Espindola.jpg)
 {: .pull-right}
 
-**Anahi Espindola** - Anahi is from Argentina, and completed her PhD at the University of Neuchatel in Switzerland, where she studied comparative phylogeography of plant-pollinator interactions.
+**Anahi Espindola** - Anahi is from Argentina, and completed her PhD at the University of Neuchatel in Switzerland where she studied comparative phylogeography of plant-pollinator interactions.
 
-Anahi is now working on a collaborative project with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/) and [Bryan Carstens](http://carstenslab.org.ohio-state.edu/OSU/Carstens_Lab.html) investigating the comparative phylgeography of the temperate rainforests of the Pacific Northwest, and developing tools to identify cryptic diversity in disjunct biomes.
+Anahi is now working on a collaborative project with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/) and [Bryan Carstens](http://carstenslab.org.ohio-state.edu/OSU/Carstens_Lab.html) investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest, and developing tools to identify cryptic diversity in disjunct biomes.
 
-anahi.espindola [at] gmail.com; @Analyssi
+anahi.espindola [at] gmail.com; @Analyssi;
 [anahiespindola.github.io](http://anahiespindola.github.io/index.html)
 
 ### Graduate Students
