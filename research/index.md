@@ -18,7 +18,9 @@ image:
 
 **Diversification dynamics in Castillejinae -** correlating life history variation and chromosomal evolution to shifts in the rate of diversification in this species-rich group of primarily western North American plants.
 
-**Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/) will be focused on this group.
+**Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/) is focused on this group.
+
+**Biogeography and systematics of <i>Cordylanthus</i> and <i>Pseudocordylanthus</i> -** investigating the relative roles of niche conservatism and niche evolution in the diversification of these two clades in western North America. The thesis research of [*Ian Gilman*]({{ site.url }}/people/) is focused on this group.
 
 <figure>
 	<a href="{{ site.url }}/images/Bartsia.jpg"><img src="{{ site.url }}/images/Bartsia.jpg" alt="image" width="120" height="120"></a>
@@ -27,7 +29,7 @@ image:
 
 **Evolution and systematics of <i>Bartsia</i> s.l. -** investigating the biogeography, evolution, and diversification of <i>Bartsia</i> in Andean South America, and placing this group in the context of the rest of the ‘European clade’ of Orobanchaceae. This was the dissertation research of former PhD student [*Simon Uribe-Convers*]({{ site.url }}/people/former-lab-members.html). 
 
-**Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  PhD student [*Diego Morales-Briones*]({{ site.url }}/people/people.html). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
+**Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  PhD student [*Diego Morales-Briones*]({{ site.url }}/people/). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
 
 <figure>
 	<a href="{{ site.url }}/images/campanulid-biogeography.jpg"><img src="{{ site.url }}/images/campanulid-biogeography.jpg" alt="image" width="150" height="197"></a>
@@ -63,13 +65,13 @@ image:
 </figure>
 {: .pull-right}
 
-**Comparative phylogeography of the inland temperate rainforest communities of the Pacific Northwest -** in collaboration with [*Jack Sullivan*](http://www.webpages.uidaho.edu/~jacks/) and [*Bryan Carstens*](http://carstenslab.org.ohio-state.edu/), this project is focused on the development of a predictive framework for the discovery of cryptic biodiversity that can be applied to entire ecosystems and uses the disjunct rainforests of the Pacific Northwest as a model system for extending comparative phylogeography.
+**Comparative phylogeography of the inland temperate rainforest communities of the Pacific Northwest -** in collaboration with [*Jack Sullivan*](http://www.webpages.uidaho.edu/~jacks/) and [*Bryan Carstens*](http://carstenslab.org.ohio-state.edu/), this project is focused on the development of a predictive framework for the discovery of cryptic biodiversity that can be applied to entire ecosystems and uses the disjunct rainforests of the Pacific Northwest as a model system for extending comparative phylogeography. The dissertation research of [*Megan Ruffley*]({{ site.url }}/people/) and postdoctoral research of [*Anahi Espindola*]({{ site.url }}/people/) are focused on this project. 
 
 <figure>
 	<a href="{{ site.url }}/images/San-Juan-phylogeny2.jpg"><img src="{{ site.url }}/images/San-Juan-phylogeny2.jpg" alt="image" width="175" height="174"></a>
 </figure>
 {: .pull-right}
 
-**Community phylogenetics across scales and systems -** this encompasses several projects that comprise the dissertation research of PhD student [*Hannah Marx*]({{ site.url }}/people/people.html). Through collaborations with ecologists working in diverse 'island' systems ranging from alpine sky islands ([*Sébastien Lavergne*](http://seb.lavergne.free.fr)) to the flora of the San Juan Islands in the Puget Sound ([*University of Washington Herbarium*](http://biology.burke.washington.edu/herbarium/resources/sanjuanatlas.php)), this research investigates diversity dynamics in plant communities and integrates detailed information phylogenetic relatedness with measures of functional and genomic diversity. In addition, the variety of systems allows us to test the affect of scale on commonly used community phylogenetic metrics.
+**Community phylogenetics across scales and systems -** this encompasses several projects that comprise the dissertation research of PhD student [*Hannah Marx*]({{ site.url }}/people/). Through collaborations with ecologists working in diverse 'island' systems ranging from alpine sky islands ([*Sébastien Lavergne*](http://seb.lavergne.free.fr)) to the flora of the San Juan Islands in the Puget Sound ([*University of Washington Herbarium*](http://biology.burke.washington.edu/herbarium/resources/sanjuanatlas.php)), this research investigates diversity dynamics in plant communities and integrates detailed information phylogenetic relatedness with measures of functional and genomic diversity. In addition, the variety of systems allows us to test the affect of scale on commonly used community phylogenetic metrics.
 
 [^1]: Example: *domain.com/category-name/post-title*
