@@ -18,7 +18,7 @@ image:
 
 **Diversification dynamics in Castillejinae -** correlating life history variation and chromosomal evolution to shifts in the rate of diversification in this species-rich group of primarily western North American plants.
 
-**Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/people.html) will be focused on this group.
+**Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/) will be focused on this group.
 
 <figure>
 	<a href="{{ site.url }}/images/Bartsia.jpg"><img src="{{ site.url }}/images/Bartsia.jpg" alt="image" width="120" height="120"></a>
