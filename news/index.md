@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current events in the Tank Lab
+title: Current Events
 excerpt: "Archive of noteworthy events in the Tank Lab."
 search_omit: true
 
