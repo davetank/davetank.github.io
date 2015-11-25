@@ -50,21 +50,38 @@ marx6272 [at] vandals.uidaho.edu; @marxhannah; [www.hannahmarx.com](http://www.h
 ![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
 {: .pull-right}
 
-**Diego Morales-Briones** - Diego is from Quito, Ecuador and began working on his Ph.D. in January of 2012.
+**Diego Morales-Briones** - Diego is from Quito, Ecuador and began working on his PhD in January of 2012.
 
 Diego is a Biology graduate student working on the systematics, evolution, and adaptive radiation of the genus <i>Lachemilla</i> (Rosaceae) in the páramos of Andean South America, and the historical biogeography of <i>Lachemilla</i>, <i>Alchemilla</i>, and <i>Aphanes</i>.
 
 mora5394 [at] vandals.uidaho.edu; @dfmoralesb
 
-
 ![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
 {: .pull-right}
 
-**Sarah Jacobs** - Sarah is from Arkansas, but has been on the Palouse for several years - she completed a MS across the border at Washington State University working on the phylogeny of <i>Hydrangea</i>. Sarah joined the lab as a Biology Ph.D. student in August of 2012.
+**Sarah Jacobs** - Sarah is from Arkansas, but has been on the Palouse for several years - she completed a MS across the border at Washington State University working on the phylogeny of <i>Hydrangea</i>. Sarah joined the lab as a Biology PhD student in August of 2012.
  
 Sarah is working on species delimitation and diversification dynamics of several species complexes in <i>Castilleja</i> (Orobanchaceae).
 
 jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj
+
+![Megan Ruffley]({{ site.url }}/images/bio-photo-Ruffley.jpg)
+{: .pull-right}
+
+**Megan Ruffley** - Megan completed her BS in Botany at Miami University in 2015, and joined the lab in August of 2015.
+ 
+Megan is a PhD student in the Bioinformatics and Computational Biology program, and is co-advised with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/). She is working on our collaborative project investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest.
+
+ruff6699 [at] vandals.uidaho.edu
+
+![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
+{: .pull-right}
+
+**Ian Gilman** - Ian is from Pennsylvania, and completed his BS in Physics at Bucknell University in 2015. Ian joined the lab as a Biology MS student in August of 2015.
+ 
+Ian is working on the systematics and biogeography of <i>Cordylanthus</i>, <i>Chloropyron</i>, and <i>Dicranostegia</i>, all annual members of Castillejinae (Orobanchaceae), with a focus on the relative roles of niche convervatism and niche evolution on diversification.
+
+gilm7871 [at] vandals.uidaho.edu; [isgilman.wordpress.com](https://isgilman.wordpress.com)
 
 #### [<u>Former Lab Members</u>]({{ site.url }}/people/former-lab-members.html)
 
