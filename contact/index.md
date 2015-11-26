@@ -7,16 +7,17 @@ image:
   feature: Palouse.jpg
   credit: D. Tank
 ---
-### Addresses
-
-*Mailing Address*
+### Mailing Address
 
 Department of Biological Sciences
+
 University of Idaho
+
 875 Perimeter Dr. MS 3051
+
 Moscow, ID 83844-3051
 
-*Overnight Packages*
+### Overnight Packages
 
 Department of Biological Sciences
 
