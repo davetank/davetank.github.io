@@ -24,7 +24,7 @@ This course builds on introductory biology to examine some of the morphological 
 
 This course is open to upper division undergraduates and early career graduate students that want to enhance their botanical knowledge and field skills with hands-on training in field botany as applied to evolutionary, ecological, and floristic studies. Students will learn the flora of Idaho during a two-week field experience in the Inland Northwest. 
 
-Throughout the course we will spend alternating days in the field and the classroom.  Field days will strategically target a diversity of habitats/plant communities in under-collected areas throughout the Payette National Forest. Classroom days will be focused on identifying the collected specimens using a mix of short lectures, discussions, and hands-on learning. The research goal of the collecting expeditions is centered on conducting general botanical surveys to document the diversity and distribution of vascular plants in Idaho.
+Throughout the course we spend alternating days in the field and the classroom.  Field days strategically target a diversity of habitats/plant communities in under-collected areas throughout the Payette National Forest. Classroom days focus on identifying the collected specimens using a mix of short lectures, discussions, and hands-on learning. The research goal of the collecting expeditions is centered on conducting general botanical surveys to document the diversity and distribution of vascular plants in Idaho.
 
 More information and how to apply at: [www.webpages.uidaho.edu/dtank/AFB/](http://www.webpages.uidaho.edu/dtank/AFB/)
 
