@@ -26,15 +26,17 @@ image:
 </ul>
 
 #### Phone
-
-*Office (LSS 346)*
-
-208-885-7033
-
-*Lab (LSS 453)*
-
-208-885-6618
+<ul style="list-style-type:none">
+  <li>*Office (LSS 346)*</li>
+  	<ul style="list-style-type:none"> 
+  		<li>208-885-7033</li>
+ 	</ul>
+  <li>*Lab (LSS 453)*</li>
+  	<ul style="list-style-type:none"> 
+		<li>208-885-6618</li>
+	</ul>
+</ul>
 
 #### Email
-
-[dtank [at] uidaho.edu](mailto:dtank@uidaho.edu)
+<ul style="list-style-type:none">
+	<li>[dtank [at] uidaho.edu](mailto:dtank@uidaho.edu)</li>
