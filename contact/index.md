@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Information
+title: Addresses, Phone, Email
 excerpt: "Addresses & phone numbers."
 modified: 2015-11-25T19:44:38
 image:
