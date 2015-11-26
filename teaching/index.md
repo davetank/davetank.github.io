@@ -28,7 +28,6 @@ Throughout the course we spend alternating days in the field and the classroom. 
 
 More information and how to apply at: [www.webpages.uidaho.edu/dtank/AFB/](http://www.webpages.uidaho.edu/dtank/AFB/)
 
-
 ### Professional Development for Biologists (BIOL 552)
 
 *3 credits, Fall; 2 meetings per week*
