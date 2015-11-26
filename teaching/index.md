@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Teaching
-excerpt: "Current and past courses @UIdaho."
-modified: 2015-06-10T19:44:38
+excerpt: "Current courses @UIdaho."
+modified: 2015-11-25T19:44:38
 image:
   feature: Castilleja-cryptantha.jpg
   credit: D. Tank
