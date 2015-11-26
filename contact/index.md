@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Contact
+title: Contact Information
 excerpt: "Addresses & phone numbers."
 modified: 2015-11-25T19:44:38
 image:
   feature: Palouse.jpg
   credit: D. Tank
 ---
-## Contact Information
-
 ### Addresses
 
 *Mailing Address*
