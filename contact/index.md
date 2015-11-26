@@ -19,8 +19,11 @@ Moscow, ID 83844-3051
 *Overnight Packages*
 
 Department of Biological Sciences
+
 University of Idaho
+
 Life Sciences South 252
+
 Moscow, ID 83844-3051
 
 ### Phone
