@@ -7,7 +7,7 @@ image:
   feature: C_rhexifolia.jpg
   credit: D. Tank
 ---
-### Mailing Address
+#### Mailing Address
 
 <ul style="list-style-type:none">
   <li>Department of Biological Sciences</li>
@@ -16,17 +16,16 @@ image:
   <li>Moscow, ID 83844-3051</li>
 </ul>
 
-### Overnight Packages
+#### Overnight Packages
 
-Department of Biological Sciences
+<ul style="list-style-type:none">
+  <li>Department of Biological Sciences</li>
+  <li>University of Idaho</li>
+  <li>Life Sciences South 252</li>
+  <li>Moscow, ID 83844-3051</li>
+</ul>
 
-University of Idaho
-
-Life Sciences South 252
-
-Moscow, ID 83844-3051
-
-### Phone
+#### Phone
 
 *Office (LSS 346)*
 
@@ -36,6 +35,6 @@ Moscow, ID 83844-3051
 
 208-885-6618
 
-### Email
+#### Email
 
 [dtank [at] uidaho.edu](mailto:dtank@uidaho.edu)
