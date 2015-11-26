@@ -4,18 +4,17 @@ title: Contact Information
 excerpt: "Addresses & phone numbers."
 modified: 2015-11-25T19:44:38
 image:
-  feature: Palouse.jpg
+  feature: C_rhexifolia.jpg
   credit: D. Tank
 ---
 ### Mailing Address
 
-Department of Biological Sciences
-
-University of Idaho
-
-875 Perimeter Dr. MS 3051
-
-Moscow, ID 83844-3051
+<ul style="list-style-type:none">
+  <li>Department of Biological Sciences</li>
+  <li>University of Idaho</li>
+  <li>875 Perimeter Dr. MS 3051</li>
+  <li>Moscow, ID 83844-3051</li>
+</ul>
 
 ### Overnight Packages
 
