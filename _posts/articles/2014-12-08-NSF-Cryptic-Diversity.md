@@ -12,6 +12,6 @@ share: true
 	<a href="{{ site.url }}/images/PNW-disjunct.jpg"><img src="{{ site.url }}/images/PNW-disjunct.jpg" alt="image"></a>
 </figure>
 
-This new funding is a collaborative project with [*Jack Sullivan*](http://www.webpages.uidaho.edu/~jacks/) and [*Bryan Carstens*](http://carstenslab.org.ohio-state.edu/)that is focused on the development of a predictive framework for the discovery of cryptic biodiversity that can be applied to entire ecosystems and uses the disjunct rainforests of the Pacific Northwest as a model system for extending comparative phylogeography.
+This new funding is a collaborative project with [*Jack Sullivan*](http://www.webpages.uidaho.edu/~jacks/) and [*Bryan Carstens*](http://carstenslab.org.ohio-state.edu/) that is focused on the development of a predictive framework for the discovery of cryptic biodiversity that can be applied to entire ecosystems and uses the disjunct rainforests of the Pacific Northwest as a model system for extending comparative phylogeography.
 
 [*Collaborative Research: A Comparative Phylogeographic Approach to Predicting Cryptic Diversity - The Inland Temperate Rainforest as a Model System*](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1457726&HistoricalAwards=false)
