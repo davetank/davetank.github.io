@@ -13,7 +13,7 @@ image:
 
 My goal as an advisor is to help graduate students become broadly trained in plant systematics and & phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions.
 
-View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV](link-to-pdf.pdf)
+View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV]({{ site.url }}/people/2016_01_Tank_CV.pdf)
 
 dtank [at] uidaho.edu; @dave_tank
 
@@ -72,7 +72,7 @@ jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj
  
 Megan is a PhD student in the Bioinformatics and Computational Biology program, and is co-advised with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/). She is working on our collaborative project investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest.
 
-ruff6699 [at] vandals.uidaho.edu
+ruff6699 [at] vandals.uidaho.edu, [meganruffley.weebly.com](http://meganruffley.weebly.com)
 
 ![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
 {: .pull-right}
