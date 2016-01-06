@@ -5,8 +5,8 @@ locale: en_US
 description: Molecular Plant Systematics & Evolution
 logo: tanklab-site-logo.png
 search: true
-url: http://localhost:4000
-# url: http://davetank.github.io
+#url: http://localhost:4000
+url: http://davetank.github.io
 
 
 # Jekyll configuration
