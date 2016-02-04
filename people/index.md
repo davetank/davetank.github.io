@@ -25,7 +25,7 @@ dtank [at] uidaho.edu; @dave_tank
 
 Maribeth is working on the diversification of the perennial clade of <i>Castilleja</i> (Orobanchaceae) in western North America.
 
-mlatvis [at] uidaho.edu; @MaribethLatvis
+mlatvis [at] uidaho.edu; @MaribethLatvis; [maribethlatvis.wix.com/plantsyst](http://maribethlatvis.wix.com/plantsyst)
 
 ![Anahi Espindola]({{ site.url }}/images/bio-photo-Espindola.jpg)
 {: .pull-right}
@@ -34,8 +34,7 @@ mlatvis [at] uidaho.edu; @MaribethLatvis
 
 Anahi is now working on a collaborative project with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/) and [Bryan Carstens](http://carstenslab.org.ohio-state.edu/OSU/Carstens_Lab.html) investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest, and developing tools to identify cryptic diversity in disjunct biomes.
 
-anahi.espindola [at] gmail.com; @Analyssi;
-[anahiespindola.github.io](http://anahiespindola.github.io/index.html)
+anahi.espindola [at] gmail.com; @Analyssi; [anahiespindola.github.io](http://anahiespindola.github.io/index.html)
 
 ### Graduate Students
 ![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
