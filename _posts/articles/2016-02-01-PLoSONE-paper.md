@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Latest paper from Simon Uribe-Convers published in PLoS ONE.
+title:  Latest cool paper from Simon Uribe-Convers published in PLoS ONE.
 excerpt: "Our microfluidic PCR based approach for phylogenomics, with an example from <i>Bartsia</i>"
 modified: 2016-02-01
 categories: articles
