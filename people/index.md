@@ -77,32 +77,32 @@ ruff6699 [at] vandals.uidaho.edu; @MeganRRuffley; [meganruffley.weebly.com](http
 
 ## Former Graduate Students
 
-#PhD students
+<u>*PhD students*</u>
 
 ![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
-{: .pull-right}
+{: .pull-left}
 
-**Hannah Marx**
+**Hannah Marx** - 
 [www.hannahmarx.com/](http://www.hannahmarx.com/)
 
 ![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
 {: .pull-right}
 
-**Diego Morales-Briones**
+**Diego Morales-Briones** - 
 [Research Gate profile](https://www.researchgate.net/profile/Diego_Morales-Briones)
 
 ![Simon Uribe-Convers]({{ site.url }}/images/bio-photo-Uribe-Convers.jpg)
 {: .pull-right}
 
-**Simon Uribe-Convers**
+**Simon Uribe-Convers** - 
 [simonuribe.com](http://simonuribe.com/wp/)
 
-#MS students
+<u>*MS students*</u>
 
 ![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
 {: .pull-right}
 
-**Ian Gilman**
+**Ian Gilman** - 
 [Donoghue lab, Yale University](https://donoghuelab.yale.edu/people/ian-gilman)
 
 ## Former Postdocs
