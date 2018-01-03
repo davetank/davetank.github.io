@@ -85,32 +85,32 @@ mort1504 [at] vandals.uidaho.edu;  [mortimersebastian.wordpress.com](https://mor
 *PhD students*
 
 ![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
-{: .pull-left}
+
 **Hannah Marx** - postdoc, University of Arizona; [www.hannahmarx.com/](http://www.hannahmarx.com/)
 
 ![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
-{: .pull-left}
+
 **Diego Morales-Briones** - postdoc, University of Minnesota; [Research Gate profile](https://www.researchgate.net/profile/Diego_Morales-Briones)
 
 ![Simon Uribe-Convers]({{ site.url }}/images/bio-photo-Uribe-Convers.jpg)
-{: .pull-left}
+
 **Simon Uribe-Convers** - postdoc, University of Michigan; [simonuribe.com](http://simonuribe.com/wp/)
 
 *MS student*
 
 ![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
-{: .pull-left}
+
 **Ian Gilman** - PhD student, Yale University; [Donoghue lab](https://donoghuelab.yale.edu/people/ian-gilman)
 
 ## Former Postdocs
 
 ![Jon Eastman]({{ site.url }}/images/bio-photo-Eastman.jpg)
-{: .pull-left}
+
 **Jon Eastman** - 
 Firefighter, Waterloo, Iowa
 
 ![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
-{: .pull-left}
+
 **Maribeth Latvis** - 
 Assistant Professor, South Dakota State University; [maribethlatvis.wix.com](http://maribethlatvis.wix.com/plantsyst)
 
