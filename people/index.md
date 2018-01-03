@@ -28,7 +28,7 @@ Anahi is now working on a collaborative project with [Jack Sullivan](http://www.
 anahi.espindola [at] gmail.com; @Analyssi; [anahiespindola.github.io](http://anahiespindola.github.io/index.html)
 
 ### Graduate Students
-<u>**PhD students**</u>
+*PhD students*
 
 ![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
 {: .pull-right}
@@ -42,9 +42,9 @@ jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj; [www.sarahjjacobs.com](https:/
 ![Sam McCauley]({{ site.url }}/images/bio-photo-McCauley.jpg)
 {: .pull-right}
 
-**Sam McCauley** - Sam completed his BS at the College of Charleston in 2017, and joined the lab in August of 2017.
+**Sam McCauley** - Sam completed his BA in Biology at the College of Charleston in May of 2017, and joined the lab in August of 2017.
  
-Sam is a Biology PhD student, and is working on the diversification dynamics of <i>Thalictrum</i>(Ranunculaceae).
+Sam is a Biology PhD student, and is investigating the evolution of wind pollination, biogeography, and diversification dynamics of <i>Thalictrum</i> - a clade of ~200 species in the Ranunculaceae.   
 
 mcca6713 [at] vandals.uidaho.edu; @samccau; [smccau.github.io](https://smccau.github.io)
 
@@ -57,7 +57,7 @@ Megan is a PhD student in the Bioinformatics and Computational Biology program, 
 
 ruff6699 [at] vandals.uidaho.edu; @MeganRRuffley; [meganruffley.weebly.com](http://meganruffley.weebly.com)
 
-<u>**MS students**</u>
+*MS students*
 
 ![Grahm Johnson]({{ site.url }}/images/bio-photo-Johnson.jpg)
 {: .pull-right}
@@ -82,41 +82,36 @@ mort1504 [at] vandals.uidaho.edu;  [mortimersebastian.wordpress.com](https://mor
 
 ## Former Graduate Students
 
-<u>**PhD students**</u>
+*PhD students*
 
 ![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
-
-**Hannah Marx** - postdoc, University of Arizona
-[www.hannahmarx.com/](http://www.hannahmarx.com/)
+{: .pull-left}
+**Hannah Marx** - postdoc, University of Arizona; [www.hannahmarx.com/](http://www.hannahmarx.com/)
 
 ![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
-
-**Diego Morales-Briones** - postdoc, University of Minnesota
-[Research Gate profile](https://www.researchgate.net/profile/Diego_Morales-Briones)
+{: .pull-left}
+**Diego Morales-Briones** - postdoc, University of Minnesota; [Research Gate profile](https://www.researchgate.net/profile/Diego_Morales-Briones)
 
 ![Simon Uribe-Convers]({{ site.url }}/images/bio-photo-Uribe-Convers.jpg)
+{: .pull-left}
+**Simon Uribe-Convers** - postdoc, University of Michigan; [simonuribe.com](http://simonuribe.com/wp/)
 
-**Simon Uribe-Convers** - postdoc, University of Michigan
-[simonuribe.com](http://simonuribe.com/wp/)
-
-<u>**MS student**</u>
+*MS student*
 
 ![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
-
-**Ian Gilman** - PhD student, Yale University
-[Donoghue lab](https://donoghuelab.yale.edu/people/ian-gilman)
+{: .pull-left}
+**Ian Gilman** - PhD student, Yale University; [Donoghue lab](https://donoghuelab.yale.edu/people/ian-gilman)
 
 ## Former Postdocs
 
 ![Jon Eastman]({{ site.url }}/images/bio-photo-Eastman.jpg)
-
+{: .pull-left}
 **Jon Eastman** - 
 Firefighter, Waterloo, Iowa
 
 ![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
-
+{: .pull-left}
 **Maribeth Latvis** - 
-Assistant Professor, South Dakota State University
-[maribethlatvis.wix.com](http://maribethlatvis.wix.com/plantsyst)
+Assistant Professor, South Dakota State University; [maribethlatvis.wix.com](http://maribethlatvis.wix.com/plantsyst)
 
 [^1]: Example: *domain.com/category-name/post-title*
