@@ -28,6 +28,8 @@ Anahi is now working on a collaborative project with [Jack Sullivan](http://www.
 anahi.espindola [at] gmail.com; @Analyssi; [anahiespindola.github.io](http://anahiespindola.github.io/index.html)
 
 ### Graduate Students
+<u>**PhD students**</u>
+
 ![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
 {: .pull-right}
 
@@ -36,15 +38,6 @@ anahi.espindola [at] gmail.com; @Analyssi; [anahiespindola.github.io](http://ana
 Sarah is working on species delimitation and diversification dynamics of several species complexes in <i>Castilleja</i> (Orobanchaceae).
 
 jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj; [www.sarahjjacobs.com](https://www.sarahjjacobs.com)
-
-![Grahm Johnson]({{ site.url }}/images/bio-photo-Johnson.jpg)
-{: .pull-right}
-
-**Grahm Johnson** - Grahm joined the lab in January 2015 after working as a seasonal botanist in the Payette National Forest in McCall, Idaho. 
- 
-Grahm is a Biology MS student and an Assistant Curator in the Stillinger Herbarium, and is working on floristics of the High Idaho Batholith ecoregion in the remote mountains of central Idaho.
-
-john8863 [at] vandals.uidaho.edu;  [grahmjohnson.weebly.com](https://grahmjohnson.weebly.com)
 
 ![Sam McCauley]({{ site.url }}/images/bio-photo-McCauley.jpg)
 {: .pull-right}
@@ -55,15 +48,6 @@ Sam is a Biology PhD student, and is working on the diversification dynamics of 
 
 mcca6713 [at] vandals.uidaho.edu; @samccau; [smccau.github.io](https://smccau.github.io)
 
-![Sebastian Mortimer]({{ site.url }}/images/bio-photo-Mortimer.jpg)
-{: .pull-right}
-
-**Sebastian Mortimer** - Sebastian is originally from Moscow, Idaho, and completed his BS in Biology at Willamette University in 2016. Sebastian joined the lab in August of 2016.
- 
-Sebastian is working on his MS, working on the systematics and biogeography of <i>Lamourouxia</i> (Orobanchaceae) - a genus of ~30 hemiparasitic species in the mountains of Mexico, central America, and Andean South America.
-
-mort1504 [at] vandals.uidaho.edu;  [mortimersebastian.wordpress.com](https://mortimersebastian.wordpress.com)
-
 ![Megan Ruffley]({{ site.url }}/images/bio-photo-Ruffley.jpg)
 {: .pull-right}
 
@@ -73,11 +57,32 @@ Megan is a PhD student in the Bioinformatics and Computational Biology program, 
 
 ruff6699 [at] vandals.uidaho.edu; @MeganRRuffley; [meganruffley.weebly.com](http://meganruffley.weebly.com)
 
+<u>**MS students**</u>
+
+![Grahm Johnson]({{ site.url }}/images/bio-photo-Johnson.jpg)
+{: .pull-right}
+
+**Grahm Johnson** - Grahm joined the lab in January 2015 after working as a seasonal botanist in the Payette National Forest in McCall, Idaho. 
+ 
+Grahm is a Biology MS student and an Assistant Curator in the Stillinger Herbarium, and is working on floristics of the High Idaho Batholith ecoregion in the remote mountains of central Idaho.
+
+john8863 [at] vandals.uidaho.edu;  [grahmjohnson.weebly.com](https://grahmjohnson.weebly.com)
+
+![Sebastian Mortimer]({{ site.url }}/images/bio-photo-Mortimer.jpg)
+{: .pull-right}
+
+**Sebastian Mortimer** - Sebastian is originally from Moscow, Idaho, and completed his BS in Biology at Willamette University in 2016. Sebastian joined the lab in August of 2016.
+ 
+Sebastian is working on his MS, working on the systematics and biogeography of <i>Lamourouxia</i> (Orobanchaceae) - a genus of ~30 hemiparasitic species in the mountains of Mexico, central America, and Andean South America.
+
+mort1504 [at] vandals.uidaho.edu;  [mortimersebastian.wordpress.com](https://mortimersebastian.wordpress.com)
+
+
 #### Former Lab Members
 
 ## Former Graduate Students
 
-<u>*PhD students*</u>
+<u>**PhD students**</u>
 
 ![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
 
@@ -94,7 +99,7 @@ ruff6699 [at] vandals.uidaho.edu; @MeganRRuffley; [meganruffley.weebly.com](http
 **Simon Uribe-Convers** - postdoc, University of Michigan
 [simonuribe.com](http://simonuribe.com/wp/)
 
-<u>*MS students*</u>
+<u>**MS student**</u>
 
 ![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
 
