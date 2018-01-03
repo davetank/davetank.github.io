@@ -37,7 +37,7 @@ Sarah is working on species delimitation and diversification dynamics of several
 
 jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj; [www.sarahjjacobs.com](https://www.sarahjjacobs.com)
 
-![Grahm Johnson({{ site.url }}/images/bio-photo-Johnson.jpg)
+![Grahm Johnson]({{ site.url }}/images/bio-photo-Johnson.jpg)
 {: .pull-right}
 
 **Grahm Johnson** - Grahm joined the lab in January 2015 after working as a seasonal botanist in the Payette National Forest in McCall, Idaho. 
@@ -46,7 +46,7 @@ Grahm is a Biology MS student and an Assistant Curator in the Stillinger Herbari
 
 john8863 [at] vandals.uidaho.edu;  [grahmjohnson.weebly.com](https://grahmjohnson.weebly.com)
 
-![Sam McCauley({{ site.url }}/images/bio-photo-McCauley.jpg)
+![Sam McCauley]({{ site.url }}/images/bio-photo-McCauley.jpg)
 {: .pull-right}
 
 **Sam McCauley** - Sam completed his BS at the College of Charleston in 2017, and joined the lab in August of 2017.
@@ -55,7 +55,7 @@ Sam is a Biology PhD student, and is working on the diversification dynamics of 
 
 mcca6713 [at] vandals.uidaho.edu; @samccau; [smccau.github.io](https://smccau.github.io)
 
-![Sebastian Mortimer({{ site.url }}/images/bio-photo-Mortimer.jpg)
+![Sebastian Mortimer]({{ site.url }}/images/bio-photo-Mortimer.jpg)
 {: .pull-right}
 
 **Sebastian Mortimer** - Sebastian is originally from Moscow, Idaho, and completed his BS in Biology at Willamette University in 2016. Sebastian joined the lab in August of 2016.
@@ -64,7 +64,7 @@ Sebastian is working on his MS, working on the systematics and biogeography of <
 
 mort1504 [at] vandals.uidaho.edu;  [mortimersebastian.wordpress.com](https://mortimersebastian.wordpress.com)
 
-![Megan Ruffley({{ site.url }}/images/bio-photo-Ruffley.jpg)
+![Megan Ruffley]({{ site.url }}/images/bio-photo-Ruffley.jpg)
 {: .pull-right}
 
 **Megan Ruffley** - Megan completed her BS in Botany at Miami University in 2015, and joined the lab in August of 2015.
