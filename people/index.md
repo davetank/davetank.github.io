@@ -13,20 +13,11 @@ image:
 
 My goal as an advisor is to help graduate students become broadly trained in plant systematics and & phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions.
 
-View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV]({{ site.url }}/people/2016_01_Tank_CV.pdf)
+View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV]({{ site.url }}/people/Dec2017Tank_CV.pdf)
 
 dtank [at] uidaho.edu; @dave_tank
 
 ### Postdoctoral Researchers
-![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
-{: .pull-right}
-
-**Maribeth Latvis** - Maribeth completed her PhD at the University of Florida in 2013, and joined the lab in January, 2014. Her PhD focused on the systematics and evolution of the South American clade of <i>Agalinis</i> (Orobanchaceae).
-
-Maribeth is working on the diversification of the perennial clade of <i>Castilleja</i> (Orobanchaceae) in western North America.
-
-mlatvis [at] uidaho.edu; @MaribethLatvis; [maribethlatvis.wix.com/plantsyst](http://maribethlatvis.wix.com/plantsyst)
-
 ![Anahi Espindola]({{ site.url }}/images/bio-photo-Espindola.jpg)
 {: .pull-right}
 
@@ -37,24 +28,6 @@ Anahi is now working on a collaborative project with [Jack Sullivan](http://www.
 anahi.espindola [at] gmail.com; @Analyssi; [anahiespindola.github.io](http://anahiespindola.github.io/index.html)
 
 ### Graduate Students
-![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
-{: .pull-right}
-
-**Hannah Marx** - Hannah is from Vancouver, WA and joined the lab in in the fall of 2011.
-
-Hannah is a PhD student in the Bioinformatics and Computational Biology program working on the use of community phylogenetic methods to understand community dynamics at varying spatial and temporal scales.
-
-marx6272 [at] vandals.uidaho.edu; @marxhannah; [www.hannahmarx.com](http://www.hannahmarx.com/)
-
-![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
-{: .pull-right}
-
-**Diego Morales-Briones** - Diego is from Quito, Ecuador and began working on his PhD in January of 2012.
-
-Diego is a Biology graduate student working on the systematics, evolution, and adaptive radiation of the genus <i>Lachemilla</i> (Rosaceae) in the páramos of Andean South America, and the historical biogeography of <i>Lachemilla</i>, <i>Alchemilla</i>, and <i>Aphanes</i>.
-
-mora5394 [at] vandals.uidaho.edu; @dfmoralesb
-
 ![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
 {: .pull-right}
 
@@ -62,31 +35,89 @@ mora5394 [at] vandals.uidaho.edu; @dfmoralesb
  
 Sarah is working on species delimitation and diversification dynamics of several species complexes in <i>Castilleja</i> (Orobanchaceae).
 
-jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj
+jaco5430 [at] vandals.uidaho.edu; @jacobs_sarahj; [www.sarahjjacobs.com](https://www.sarahjjacobs.com)
 
-![Megan Ruffley]({{ site.url }}/images/bio-photo-Ruffley.jpg)
+![Grahm Johnson({{ site.url }}/images/bio-photo-Johnson.jpg)
+{: .pull-right}
+
+**Grahm Johnson** - Grahm joined the lab in January 2015 after working as a seasonal botanist in the Payette National Forest in McCall, Idaho. 
+ 
+Grahm is a Biology MS student and an Assistant Curator in the Stillinger Herbarium, and is working on floristics of the High Idaho Batholith ecoregion in the remote mountains of central Idaho.
+
+john8863 [at] vandals.uidaho.edu;  [grahmjohnson.weebly.com](https://grahmjohnson.weebly.com)
+
+![Sam McCauley({{ site.url }}/images/bio-photo-McCauley.jpg)
+{: .pull-right}
+
+**Sam McCauley** - Sam completed his BS at the College of Charleston in 2017, and joined the lab in August of 2017.
+ 
+Sam is a Biology PhD student, and is working on the diversification dynamics of <i>Thalictrum</i>(Ranunculaceae).
+
+mcca6713 [at] vandals.uidaho.edu; @samccau; [smccau.github.io](https://smccau.github.io)
+
+![Sebastian Mortimer({{ site.url }}/images/bio-photo-Mortimer.jpg)
+{: .pull-right}
+
+**Sebastian Mortimer** - Sebastian is originally from Moscow, Idaho, and completed his BS in Biology at Willamette University in 2016. Sebastian joined the lab in August of 2016.
+ 
+Sebastian is working on his MS, working on the systematics and biogeography of <i>Lamourouxia</i> (Orobanchaceae) - a genus of ~30 hemiparasitic species in the mountains of Mexico, central America, and Andean South America.
+
+mort1504 [at] vandals.uidaho.edu;  [mortimersebastian.wordpress.com](https://mortimersebastian.wordpress.com)
+
+![Megan Ruffley({{ site.url }}/images/bio-photo-Ruffley.jpg)
 {: .pull-right}
 
 **Megan Ruffley** - Megan completed her BS in Botany at Miami University in 2015, and joined the lab in August of 2015.
  
 Megan is a PhD student in the Bioinformatics and Computational Biology program, and is co-advised with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/). She is working on our collaborative project investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest.
 
-ruff6699 [at] vandals.uidaho.edu, [meganruffley.weebly.com](http://meganruffley.weebly.com)
+ruff6699 [at] vandals.uidaho.edu; @MeganRRuffley; [meganruffley.weebly.com](http://meganruffley.weebly.com)
+
+#### Former Lab Members
+
+## Former Graduate Students
+
+#PhD students
+
+![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
+{: .pull-right}
+
+**Hannah Marx**
+[www.hannahmarx.com/](http://www.hannahmarx.com/)
+
+![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
+{: .pull-right}
+
+**Diego Morales-Briones**
+[Research Gate profile](https://www.researchgate.net/profile/Diego_Morales-Briones)
+
+![Simon Uribe-Convers]({{ site.url }}/images/bio-photo-Uribe-Convers.jpg)
+{: .pull-right}
+
+**Simon Uribe-Convers**
+[simonuribe.com](http://simonuribe.com/wp/)
+
+#MS students
 
 ![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
 {: .pull-right}
 
-**Ian Gilman** - Ian is from Pennsylvania, and completed his BS in Physics at Bucknell University in 2015. Ian joined the lab as a Biology MS student in August of 2015.
- 
-Ian is working on the systematics and biogeography of <i>Cordylanthus</i>, <i>Chloropyron</i>, and <i>Dicranostegia</i>, all annual members of Castillejinae (Orobanchaceae), with a focus on the relative roles of niche convervatism and niche evolution on diversification.
+**Ian Gilman**
+[Donoghue lab, Yale University](https://donoghuelab.yale.edu/people/ian-gilman)
 
-gilm7871 [at] vandals.uidaho.edu; [isgilman.wordpress.com](https://isgilman.wordpress.com)
+## Former Postdocs
 
-#### [<u>Former Lab Members</u>]({{ site.url }}/people/former-lab-members.html)
+![Jon Eastman]({{ site.url }}/images/bio-photo-Eastman.jpg)
+{: .pull-right}
 
+**Jon Eastman** 
+Firefighter, Waterloo, Iowa
 
+![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
+{: .pull-right}
 
-
-
+**Maribeth Latvis**
+Assistant Professor, South Dakota State University
+[maribethlatvis.wix.com](http://maribethlatvis.wix.com/plantsyst)
 
 [^1]: Example: *domain.com/category-name/post-title*

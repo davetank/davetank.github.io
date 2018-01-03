@@ -13,7 +13,9 @@ image:
 
 I am seeking highly motivated students with a strong interest in plant systematics and evolution that are working towards a career or further degree involving collections based research, phylogenetics, phylogeography, taxonomy, and/or evolutionary biology to join my lab.
 
-If you’re interested in using phylogenies to address evolutionary questions and want more information about joining the lab, contact me by phone (208) 885-7033 or email [*dtank [at] uidaho.edu*](mailto:dtank@uidaho.edu?subject=Prospective%20graduate%20student). To learn more about the community of evolutionary biologists at UIdaho, check out the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.uidaho.edu/research/ibest) and the [*Bioinformatics and Computational Biology Program*](http://www.uidaho.edu/cogs/bcb).
+If you’re interested in using phylogenies to address evolutionary questions and want more information about joining the lab, contact me by phone (208) 885-7033 or email [*dtank [at] uidaho.edu*](mailto:dtank@uidaho.edu?subject=Prospective%20graduate%20student). To learn more about the community of evolutionary biologists at UIdaho, check out the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.uidaho.edu/research/ibest) and the [*Bioinformatics and Computational Biology Program*](http://www.uidaho.edu/cogs/bcb). 
+
+I also encourage you to read this blog post about [Applying to Biology PhD Programs](https://medium.com/@caseywdunn/applying-to-biology-phd-programs-58abece3284a).
 
 #### the next step
 

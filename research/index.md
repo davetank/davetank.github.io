@@ -18,18 +18,19 @@ image:
 
 **Diversification dynamics in Castillejinae -** correlating life history variation and chromosomal evolution to shifts in the rate of diversification in this species-rich group of primarily western North American plants.
 
-**Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/) is focused on this group.
+**Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/) and research of former postdoc [*Maribeth Latvis*]({{ site.url }}/people/)are focused on this group.
 
-**Biogeography and systematics of <i>Cordylanthus</i> and <i>Pseudocordylanthus</i> -** investigating the relative roles of niche conservatism and niche evolution in the diversification of these two clades in western North America. The thesis research of [*Ian Gilman*]({{ site.url }}/people/) is focused on this group.
+**Biogeography and systematics of <i>Cordylanthus</i> and <i>Pseudocordylanthus</i> -** 
+investigating the evolutionary history of  various genera in the Pedicularidae clade of Orobanchaceae, including <i>Cordylanthus</i>, <i>Chloropyron</i>, and <i>Lamourouxia</i>. This represents the work of several students, including former MS student[*Ian Gilman*]({{ site.url }}/people/), and current MS student [*Sebastian Mortimer*]({{ site.url }}/people/).
 
 <figure>
 	<a href="{{ site.url }}/images/Bartsia.jpg"><img src="{{ site.url }}/images/Bartsia.jpg" alt="image" width="120" height="120"></a>
 </figure>
 {: .pull-right}
 
-**Evolution and systematics of <i>Bartsia</i> s.l. -** investigating the biogeography, evolution, and diversification of <i>Bartsia</i> in Andean South America, and placing this group in the context of the rest of the ‘European clade’ of Orobanchaceae. This was the dissertation research of former PhD student [*Simon Uribe-Convers*]({{ site.url }}/people/former-lab-members.html). 
+**Evolution and systematics of <i>Bartsia</i> s.l. -** investigating the biogeography, evolution, and diversification of <i>Neobartsia</i> in Andean South America, and placing this group in the context of the rest of the ‘European clade’ of Orobanchaceae. This was the dissertation research of former PhD student [*Simon Uribe-Convers*]({{ site.url }}/people/former-lab-members.html). 
 
-**Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  PhD student [*Diego Morales-Briones*]({{ site.url }}/people/). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
+**Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  former PhD student [*Diego Morales-Briones*]({{ site.url }}/people/). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the role of hybridization in the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
 
 <figure>
 	<a href="{{ site.url }}/images/campanulid-biogeography.jpg"><img src="{{ site.url }}/images/campanulid-biogeography.jpg" alt="image" width="150" height="197"></a>

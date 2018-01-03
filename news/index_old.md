@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Current Events
-excerpt: "Archive of noteworthy events in the Tank Lab."
+title: 
+excerpt: 
 search_omit: true
 
 ---
-## News
+## Recent publications from the Tank Lab
 
 <ul class="post-list">
 {% for post in site.posts %} 
