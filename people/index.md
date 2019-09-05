@@ -32,15 +32,6 @@ anahi.espindola [at] gmail.com; @Analyssi; [anahiespindola.github.io](http://ana
 ### Graduate Students
 *PhD students*
 
-![Sam McCauley]({{ site.url }}/images/bio-photo-McCauley.jpg)
-{: .pull-right}
-
-**Sam McCauley** - Sam completed his BA in Biology at the College of Charleston in May of 2017, and joined the lab in August of 2017.
- 
-Sam is a Biology PhD student, and is investigating the systematics and evolution of <i>Diplacus</i> section Eunanus - a clade of ~20 species in the Phrymaceae.   
-
-mcca6713 [at] vandals.uidaho.edu; @samccau; [smccau.github.io](https://smccau.github.io)
-
 ![Megan Ruffley]({{ site.url }}/images/bio-photo-Ruffley.jpg)
 {: .pull-right}
 
@@ -49,6 +40,15 @@ mcca6713 [at] vandals.uidaho.edu; @samccau; [smccau.github.io](https://smccau.gi
 Megan is a PhD student in the Bioinformatics and Computational Biology program, and is co-advised with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/). She is working on our collaborative project investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest.
 
 ruff6699 [at] vandals.uidaho.edu; @MeganRRuffley; [meganruffley.weebly.com](http://meganruffley.weebly.com)
+
+![Sam McCauley]({{ site.url }}/images/bio-photo-McCauley.jpg)
+{: .pull-right}
+
+**Sam McCauley** - Sam completed his BA in Biology at the College of Charleston in May of 2017, and joined the lab in August of 2017.
+ 
+Sam is a Biology PhD student, and is investigating the systematics and evolution of <i>Diplacus</i> section Eunanus - a clade of ~20 species in the Phrymaceae.   
+
+mcca6713 [at] vandals.uidaho.edu; @samccau; [smccau.github.io](https://smccau.github.io)
 
 ![Ty Styhl]({{ site.url }}/images/bio-photo-Styhl.jpg)
 {: .pull-right}
