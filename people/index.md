@@ -73,9 +73,9 @@ turc1881 [at] vandals.uidaho.edu; [dturck.weebly.com](https://dturck.weebly.com)
 ![Harpo Faust]({{ site.url }}/images/bio-photo-Faust.jpg)
 {: .pull-right}
 
-**Harpo Faust** - Harpo joined the lab in August 2018. 
+**Harpo Faust** - Harpo completed a BA in Environmental Studies with a minor in Education from UC Santa Cruz in 2013, and worked as an outdoor educator and seasonal botanist before joining the lab in August 2018. 
  
-Harpo is a Biology MS student and an Assistant Curator in the Stillinger Herbarium, and is working on floristics of the Selkirk Mountains of northern Idaho.
+Harpo is a Biology MS student and an Assistant Curator in the Stillinger Herbarium, and is working on the floristics of the Selkirk Mountains of northern Idaho.
 
 faus3225 [at] vandals.uidaho.edu;  [harpofaust.wordpress.com](https://harpofaust.wordpress.com)
 
