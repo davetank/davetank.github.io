@@ -15,7 +15,7 @@ The Tank Lab studies plant biodiversity. Much of our research is focused on the 
 
 In addition, we are continuing the long tradition of discovering and documenting the flora of the Rocky Mountain region through targeted floristic inventories and the digitization of historical collections.
  
-Check out the [**research page**]({{ site.url }}/research.html) to learn more about how we use phylogenies to address evolutionary questions in plants and to better understand plant biodiversity through collections-based research.
+Check out the [*research page*]({{ site.url }}/research.html) to learn more about how we use phylogenies to address evolutionary questions in plants and to better understand plant biodiversity through collections-based research.
 
 ## Links
 
