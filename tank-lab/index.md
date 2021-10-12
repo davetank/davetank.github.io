@@ -21,8 +21,8 @@ Check out the [*research page*]({{ site.url }}/research.html) to learn more abou
 
 | uwyo.edu | projects | societies |
 |:--------|:-------|:--------|
-| [Department of Botany](http://www.uwyo.edu/botany/)   | [Consortium of Southern Rocky Mountain Herbaria](https://www.soroherbaria.org/)   | [American Society of Plant Taxonomists](http://www.aspt.net/)   |
-| [Rocky Mountain Herbarium](https://www.rockymountainherbarium.org)   | [Rocky Mountain Herbarium Database](http://rmh.uwyo.edu/data/search.php)   | [Botanical Society of America](http://www.botany.org/)   |
+| [Department of Botany](http://www.uwyo.edu/botany/)   | [Rocky Mountain Herbarium Database](http://rmh.uwyo.edu/data/search.php)   | [American Society of Plant Taxonomists](http://www.aspt.net/)   |
+| [Rocky Mountain Herbarium](https://www.rockymountainherbarium.org)   | [Consortium of Southern Rocky Mountain Herbaria](https://www.soroherbaria.org/)   | [Botanical Society of America](http://www.botany.org/)   |
 |----
 | [Biodiversity Institute](http://www.wyomingbiodiversity.org)   | [Consortium of Pacific Northwest Herbaria](https://www.pnwherbaria.org)   | [Society of Systematic Biologists](http://systbiol.org/)   |
 | [Program in Ecology and Evolution](http://www.uwyo.edu/pie/)   | [iDigBio](https://www.idigbio.org)   | [Society of Herbarium Curators](http://www.herbariumcurators.org/)   |
