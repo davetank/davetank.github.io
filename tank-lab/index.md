@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tank Lab @ University of Wyoming
+title: Tank Lab @ U Wyoming
 excerpt: "Plant Systematics & Evolution"
 modified: 2015-06-06T02:41:00
 image:
