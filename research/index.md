@@ -16,6 +16,8 @@ image:
 </figure>
 {: .pull-right}
 
+**Synoptical Classification of the Lamiales -** this is an ongoing project compiled and maintained by my PhD advisor, Dr. Richard Olmstead, University of Washington Emeritus Professor of Biology and Herbarium Curator. The goal of this project is to produce a working infraordinal classification of the Lamiales to genus with information on distribution and species richness. [*Download the current version [April 2021, v.2.8.0] here*]({{ site.url }}/research/!Lamiales class'n.v.2.8.0.pdf).
+
 **Diversification dynamics in Castillejinae -** correlating life history variation and chromosomal evolution to shifts in the rate of diversification in this species-rich group of primarily western North American plants.
 
 **Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/) and research of former postdoc [*Maribeth Latvis*]({{ site.url }}/people/)are focused on this group.
