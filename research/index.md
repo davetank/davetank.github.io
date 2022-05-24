@@ -11,12 +11,13 @@ image:
 
 *This research addresses a range of questions including species delimitation, modes of speciation, the ecological and evolutionary consequences of polyploidy, climatic niche evolution, pollination biology, conservation, classification, and alpha taxonomy.*
 
+
+**Synoptical Classification of the Lamiales -** this is an ongoing project compiled and maintained by my PhD advisor, Dr. Richard Olmstead, University of Washington Emeritus Professor of Biology and Herbarium Curator. The goal of this project is to produce a working infraordinal classification of the Lamiales to genus with information on distribution and species richness. [*Download the current version [April 2021, v.2.8.0] here*]({{ site.url }}/research/!Lamiales class'n.v.2.8.0.pdf).
+
 <figure>
 	<a href="{{ site.url }}/images/Castillejinae2.jpg"><img src="{{ site.url }}/images/Castillejinae2.jpg" alt="image" width="175" height="219"></a>
 </figure>
 {: .pull-right}
-
-**Synoptical Classification of the Lamiales -** this is an ongoing project compiled and maintained by my PhD advisor, Dr. Richard Olmstead, University of Washington Emeritus Professor of Biology and Herbarium Curator. The goal of this project is to produce a working infraordinal classification of the Lamiales to genus with information on distribution and species richness. [*Download the current version [April 2021, v.2.8.0] here*]({{ site.url }}/research/!Lamiales class'n.v.2.8.0.pdf).
 
 **Diversification dynamics in Castillejinae -** correlating life history variation and chromosomal evolution to shifts in the rate of diversification in this species-rich group of primarily western North American plants.
 
