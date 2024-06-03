@@ -19,10 +19,11 @@ image:
 
 #### Phone
 <ul style="list-style-type:none">
-  <li>Office (LSS 346)</li>
+  <li>Office (Aven Nelson 304)</li>
   	<ul style="list-style-type:none"> 
   		<li>307-766-4276</li>
- 
+</ul>
+
 #### Email
 <ul style="list-style-type:none">
 	<li>dtank [at] uwyo.edu</li>
