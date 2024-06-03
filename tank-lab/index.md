@@ -9,11 +9,11 @@ image:
 ---
 # Plant Systematics & Evolution
 
-**August 2021:** The Tank Lab has joined the [*Department of Botany*](http://www.uwyo.edu/botany/) and the [*Rocky Mountain Herbarium*](https://www.rockymountainherbarium.org) at the [*University of Wyoming*](http://www.uwyo.edu).
+The Tank Lab studies plant biodiversity in the [*Department of Botany*](http://www.uwyo.edu/botany/) and the [*Rocky Mountain Herbarium*](https://www.rockymountainherbarium.org) at the [*University of Wyoming*](http://www.uwyo.edu).
 
-The Tank Lab studies plant biodiversity. Much of our research is focused on the application of phylogenetic and phylogeographic methods to understand plant evolution - from the systematics and evolution of closely related groups of species to macroevolutionary patterns of diversification in seed plants.
+Much of our research is focused on the application of phylogenetic and phylogeographic methods to understand plant evolution - from the systematics and evolution of closely related groups of species to macroevolutionary patterns of diversification in seed plants.
 
-In addition, we are continuing the long tradition of discovering and documenting the flora of the Rocky Mountain region through targeted floristic inventories and the digitization of historical collections.
+In addition, we are continuing the long tradition of discovering and documenting the flora of the Rocky Mountain region through targeted floristic inventories and the digitization of historical collections in the [*Rocky Mountain Herbarium*](https://www.rockymountainherbarium.org).
  
 Check out the [*research page*]({{ site.url }}/research.html) to learn more about how we use phylogenies to address evolutionary questions in plants and to better understand plant biodiversity through collections-based research.
 

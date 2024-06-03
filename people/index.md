@@ -11,11 +11,15 @@ image:
 ![David C. Tank]({{ site.url }}/images/bio-photo-Tank.jpg)
 {: .pull-right}
 
+Professor, [Department of Botany](https://www.uwyo.edu/botany/)
+Director, [Rocky Mountain Herbarium](https://www.rockymountainherbarium.org)
+
+PhD, University of Washington
+Postdoc, Yale University and Peabody Museum of Natural History
+
 My goal as an advisor is to help graduate students become broadly trained in plant systematics and & phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions.
 
-View my [faculty profile](http://www.uidaho.edu/sci/biology/faculty/davidtank) or [CV]({{ site.url }}/people/2019_07_Tank_CV.pdf)
-
-dtank [at] uidaho.edu; @dave_tank
+dtank [at] uwyo.edu; @dave_tank
 
 
 ### Postdoctoral Researchers
@@ -32,52 +36,63 @@ anahi.espindola [at] gmail.com; @Analyssi; [anahiespindola.github.io](http://ana
 ### Graduate Students
 *PhD students*
 
-![Megan Ruffley]({{ site.url }}/images/bio-photo-Ruffley.jpg)
+![Malia Santos]({{ site.url }}/images/bio-photo-Santos.jpg)
 {: .pull-right}
 
-**Megan Ruffley** - Megan completed her BS in Botany at Miami University in 2015, and joined the lab in August of 2015.
+**Malia Santos** - Malia completed her BS in Biology at Willamette University in 2016, and started her PhD with me and [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/) at the University of Idaho, before moving with me to the University of Wyoming in 2021.
  
-Megan is a PhD student in the Bioinformatics and Computational Biology program, and is co-advised with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/). She is working on our collaborative project investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest.
+Malia is a PhD student in the [UW Program in Ecology and Evolution (PiEE)](https://www.uwyo.edu/pie/). Her dissertation is focused on phylogenomics and macroevolution in both <i>Tricalysia</i> (Rubiaceae) and <i>Castilleja</i> (Orobanchaceae).
 
-ruff6699 [at] vandals.uidaho.edu; @MeganRRuffley; [meganruffley.weebly.com](http://meganruffley.weebly.com)
+msantos2 [at] uwyo.edu; @malia_santos1; [santosmalia.github.io](https://santosmalia.github.io)
 
-![Sam McCauley]({{ site.url }}/images/bio-photo-McCauley.jpg)
+![Caroline Brose]({{ site.url }}/images/bio-photo-Brose.jpg)
 {: .pull-right}
 
-**Sam McCauley** - Sam completed his BA in Biology at the College of Charleston in May of 2017, and joined the lab in August of 2017.
- 
-Sam is a Biology PhD student, and is investigating the systematics and evolution of <i>Diplacus</i> section Eunanus - a clade of ~20 species in the Phrymaceae.   
+**Caroline Brose** - Caroline is a PhD student in the [UW Program in Ecology and Evolution (PiEE)](https://www.uwyo.edu/pie/), and joined the lab in 2022 after completing her undergraduate degree at Colorado College. 
 
-mcca6713 [at] vandals.uidaho.edu; @samccau; [smccau.github.io](https://smccau.github.io)
+Her research is focused on the systematics of North American willows (<i>Salix</i>) where she is especially interested in species delimitation in arctic-alpine disjunctions, sympatry, and polyploid evolution.
 
-![Ty Styhl]({{ site.url }}/images/bio-photo-Styhl.jpg)
+cbrose1 [at] uwyo.edu; @cbrose22
+
+![Erin Bentley]({{ site.url }}/images/bio-photo-Bentley.jpg)
 {: .pull-right}
 
-**Ty Styhl** - Ty completed his BS in Ecology and Conservation Biology here at the University of Idaho in 2018, and joined the lab in August of 2018.
- 
-Ty is a Biology PhD student, and is co-advised with [Courtney Conway](https://www.uidaho.edu/cnr/faculty/conway) in the Department of Fish and Wildlife Sciences. He is working on our collaborative project investigating the diet of the Greater Sage Grouse using DNA metabarcoding approaches.
+**Erin Bentley** - Erin completed her BS at the University of Wyoming and started her PhD woking with Dr. Alex Buerkle before joining the Tank Lab in the summer of 2022.
 
-styh9361 [at] vandals.uidaho.edu; [tyrellstyhl.wixsite.com](https://tyrellstyhl.wixsite.com/ecology)
+Erin's research uses population genomic and phylogenomic approaches to study the evolution of rarity using <i>Penstemon</i> and <i>Yermo</i> as model systems. In addition, Erin is informal education and outreach using transdisciplinary approaches that integrate art and science. 
+
+ebentley [at] uwyo.edu
 
 ![Dan Turck]({{ site.url }}/images/bio-photo-Turck.jpg)
 {: .pull-right}
 
-**Dan Turck** - Dan completed his BS in Resource Conservation with and emphasis in Ecology  at the University of Montana in 2010, and worked in the Pacific Northwest forests and in Antarctica before joining the lab in August of 2018.
+**Dan Turck** - Dan completed his BS in Resource Conservation with and emphasis in Ecology  at the University of Montana in 2010, and worked in the Pacific Northwest forests and in Antarctica before joining the lab in 2018.
  
-Dan is a Biology PhD student working on our collaborative project (with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/)) investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest.
+Dan is a Biology PhD student at the University of Idaho (he stayed there...) working on our collaborative project (with [Jack Sullivan](http://www.webpages.uidaho.edu/~jacks/)) investigating the comparative phylogeography of the temperate rainforests of the Pacific Northwest.
 
 turc1881 [at] vandals.uidaho.edu; [dturck.weebly.com](https://dturck.weebly.com)
 
+
 *MS students*
 
-![Harpo Faust]({{ site.url }}/images/bio-photo-Faust.jpg)
+
+![Marguerite Trost]({{ site.url }}/images/bio-photo-Trost.jpg)
 {: .pull-right}
 
-**Harpo Faust** - Harpo completed a BA in Environmental Studies with a minor in Education from UC Santa Cruz in 2013, and worked as an outdoor educator and seasonal botanist before joining the lab in August 2018. 
- 
-Harpo is a Biology MS student and an Assistant Curator in the Stillinger Herbarium, and is working on the floristics of the Selkirk Mountains of northern Idaho.
+**Marguerite Trost** - Marguerite completed her BS in Botany at the University of Washington in 2021 and joined the Tank lab in the summer of 2024.
 
-faus3225 [at] vandals.uidaho.edu;  [harpofaust.wordpress.com](https://harpofaust.wordpress.com)
+Marguerite is a MS student and part of the Rocky Mountain Herbarium floristics team where she is working on a floristic inventory of the [Kootenai National Forest](https://www.fs.usda.gov/kootenai) in northwest Montana. 
+ 
+etrost [at] uwyo.edu
+
+![Dan Coles]({{ site.url }}/images/bio-photo-Coles.jpg)
+{: .pull-right}
+
+**Dan Coles** - Dan completed her BS in Botany at the University of Wyoming in 2024 and transitioned directly to graduate school in the Tank lab in the summer of 2024.
+
+Dan is a MS student and part of the Rocky Mountain Herbarium floristics team where he is working on a floristic inventory of the [Bighorn National Forest](https://www.fs.usda.gov/bighorn) in north central Wyoming. 
+
+dcoles1 [at] uwyo.edu
 
 
 #### Former Lab Members
@@ -86,13 +101,21 @@ faus3225 [at] vandals.uidaho.edu;  [harpofaust.wordpress.com](https://harpofaust
 
 *PhD students*
 
+![Megan Ruffley]({{ site.url }}/images/bio-photo-Ruffley.jpg)
+
+**Megan Ruffley** - Postdoc in Eco-Evolutionary Bioinformatics, Carnegie Institution for Science
+[LinkedIn profile](https://www.linkedin.com/in/megan-ruffley-3b0070249/)
+
+![Sam McCauley]({{ site.url }}/images/bio-photo-McCauley.jpg)
+{: .pull-right}
+
 ![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
 
-**Sarah Jacobs** - postdoc, University of California, Los Angeles; [www.sarahjjacobs.com](https://www.sarahjjacobs.com)
+**Sarah Jacobs** - Assistant Curator & Howell Chair of Western North American Botany, California Academy of Sciences; [www.sarahjjacobs.com](https://www.sarahjjacobs.com)
 
 ![Hannah Marx]({{ site.url }}/images/bio-photo-Marx.jpg)
 
-**Hannah Marx** - postdoc, University of Michigan; [www.hannahmarx.com/](http://www.hannahmarx.com/)
+**Hannah Marx** - Assistant Professor & Herbarium Curator, University of New Mexico; [www.hannahmarx.com/](http://www.hannahmarx.com/)
 
 ![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
 
@@ -104,9 +127,13 @@ faus3225 [at] vandals.uidaho.edu;  [harpofaust.wordpress.com](https://harpofaust
 
 *MS students*
 
+![Harpo Faust]({{ site.url }}/images/bio-photo-Faust.jpg)
+
+**Harpo Faust** - Senior Collections Manager, Herbarium, Museum of Southwestern Biology, University of New Mexico; [https://harpofaust.com](https://harpofaust.com/bio/)
+
 ![Sebastian Mortimer]({{ site.url }}/images/bio-photo-Mortimer.jpg)
 
-**Sebastian Mortimer** - Research Technician, University of Montana; [Good lab](http://www.thegoodlab.org/people)
+**Sebastian Mortimer** - PhD Student, Oregon State University; [Liston lab](https://blogs.oregonstate.edu/listonlab/sebastian-mortimer-2/)
 
 ![Grahm Johnson]({{ site.url }}/images/bio-photo-Johnson.jpg)
 
@@ -126,7 +153,7 @@ Firefighter, Waterloo, Iowa
 ![Maribeth Latvis]({{ site.url }}/images/bio-photo-Latvis.jpg)
 
 **Maribeth Latvis** - 
-Assistant Professor, South Dakota State University; [maribethlatvis.wix.com](http://maribethlatvis.wix.com/plantsyst)
+Assistant Professor, University of Arkansas; [maribethlatvis.wix.com](http://maribethlatvis.wix.com/plantsyst)
 
 ![Anahi Espindola]({{ site.url }}/images/bio-photo-Espindola.jpg)
 
