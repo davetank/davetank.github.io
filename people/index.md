@@ -116,11 +116,11 @@ dcoles1 [at] uwyo.edu
 
 ![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
 
-**Diego Morales-Briones** - postdoc, University of Minnesota; [Research Gate profile](https://www.researchgate.net/profile/Diego_Morales-Briones)
+**Diego Morales-Briones** - Postdoc, LMU Munich Germany; [www.diegomoralesbriones.com](https://www.diegomoralesbriones.com/home)
 
 ![Simon Uribe-Convers]({{ site.url }}/images/bio-photo-Uribe-Convers.jpg)
 
-**Simon Uribe-Convers** - Data Scientist, Phylagen; [simonuribe.com](http://simonuribe.com/wp/)
+**Simon Uribe-Convers** - Head of Clinical Informatics at Invitae; [LinkedIn profile](https://www.linkedin.com/in/simon-uribe/)
 
 *MS students*
 
