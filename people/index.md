@@ -124,7 +124,7 @@ dcoles1 [at] uwyo.edu
 
 *MS students*
 
-![Harpo Faust]({{ site.url }}/images/bio-photo-Faust.jpg)
+![Harpo Faust]({{ site.url }}/images/bio-photo-Faust2.jpg)
 
 **Harpo Faust** - Senior Collections Manager, Herbarium, Museum of Southwestern Biology, University of New Mexico; [https://harpofaust.com](https://harpofaust.com/bio/)
 
