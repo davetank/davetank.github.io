@@ -114,11 +114,11 @@ dcoles1 [at] uwyo.edu
 
 **Hannah Marx** - Assistant Professor & Herbarium Curator, University of New Mexico; [www.hannahmarx.com/](http://www.hannahmarx.com/)
 
-![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones2.jpg)
+![Diego Morales-Briones]({{ site.url }}/images/bio-photo-Morales-Briones.jpg)
 
 **Diego Morales-Briones** - Postdoc, LMU Munich Germany; [www.diegomoralesbriones.com](https://www.diegomoralesbriones.com/home)
 
-![Simon Uribe-Convers]({{ site.url }}/images/bio-photo-Uribe-Convers2.jpg)
+![Simon Uribe-Convers]({{ site.url }}/images/bio-photo-Uribe-Convers.jpg)
 
 **Simon Uribe-Convers** - Head of Clinical Informatics at Invitae; [LinkedIn profile](https://www.linkedin.com/in/simon-uribe/)
 
