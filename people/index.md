@@ -138,7 +138,7 @@ dcoles1 [at] uwyo.edu
 
 ![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
 
-**Ian Gilman** - Psotdoc in Biology, Michigan State University; [isgilman.github.io](https://isgilman.github.io)
+**Ian Gilman** - Postdoc in Biology, Michigan State University; [isgilman.github.io](https://isgilman.github.io)
 
 ## Former Postdocs
 
