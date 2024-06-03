@@ -106,9 +106,6 @@ dcoles1 [at] uwyo.edu
 **Megan Ruffley** - Postdoc in Eco-Evolutionary Bioinformatics, Carnegie Institution for Science
 [LinkedIn profile](https://www.linkedin.com/in/megan-ruffley-3b0070249/)
 
-![Sam McCauley]({{ site.url }}/images/bio-photo-McCauley.jpg)
-{: .pull-right}
-
 ![Sarah Jacobs]({{ site.url }}/images/bio-photo-Jacobs.jpg)
 
 **Sarah Jacobs** - Assistant Curator & Howell Chair of Western North American Botany, California Academy of Sciences; [www.sarahjjacobs.com](https://www.sarahjjacobs.com)
@@ -141,7 +138,7 @@ dcoles1 [at] uwyo.edu
 
 ![Ian Gilman]({{ site.url }}/images/bio-photo-Gilman.jpg)
 
-**Ian Gilman** - PhD student, Yale University; [Donoghue lab](https://donoghuelab.yale.edu/people/ian-gilman)
+**Ian Gilman** - Psotdoc in Biology, Michigan State University; [isgilman.github.io](https://isgilman.github.io)
 
 ## Former Postdocs
 
