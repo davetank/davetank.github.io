@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Addresses, Phone, Email
+title: Address, Phone, Email
 excerpt: "Addresses & phone numbers."
 modified: 2015-11-25T19:44:38
 image:
@@ -10,33 +10,19 @@ image:
 #### Mailing Address
 
 <ul style="list-style-type:none">
-  <li>Department of Biological Sciences</li>
-  <li>University of Idaho</li>
-  <li>875 Perimeter Dr. MS 3051</li>
-  <li>Moscow, ID 83844-3051</li>
+  <li>Department of Botany & Rocky Mountain Herbarium</li>
+  <li>University of Wyoming</li>
+  <li>1000 E. University Ave Dept. 3165</li>
+  <li>Laramie, WY 82071</li>
 </ul>
 
-#### Overnight Packages
-
-<ul style="list-style-type:none">
-  <li>Department of Biological Sciences</li>
-  <li>University of Idaho</li>
-  <li>Life Sciences South 252</li>
-  <li>Moscow, ID 83844-3051</li>
-</ul>
 
 #### Phone
 <ul style="list-style-type:none">
   <li>Office (LSS 346)</li>
   	<ul style="list-style-type:none"> 
-  		<li>208-885-7033</li>
- 	</ul>
-  <li>Lab (LSS 453)</li>
-  	<ul style="list-style-type:none"> 
-		<li>208-885-6618</li>
-	</ul>
-</ul>
-
+  		<li>307-766-4276</li>
+ 
 #### Email
 <ul style="list-style-type:none">
-	<li>dtank [at] uidaho.edu</li>
+	<li>dtank [at] uwyo.edu</li>
