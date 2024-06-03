@@ -34,6 +34,16 @@ Throughout the course we spend alternating days in the field and the classroom. 
 Communication skills are crucial for a successful science career. This course provides a structured environment with both faculty and peer-to-peer mentoring, to strengthen students’ written and verbal communication skills and to foster a sense of community. The target audience is 1st and 2nd year graduate students, and the intent is to identify and practice skills that will help you have a productive, engaging, and timely graduate career, including communicating scientific topics to varied audiences, and submitting high quality grant proposals.
 -->
 
+### Phylogenetics & Macroevolution (BOT 4790/5790; taught with Dr. Katie Wagner)
+
+*3 credits, Spring of even years; 2 lectures/discussions per week*
+
+Phylogenetics is the study of evolutionary relationships among organisms. Macroevolution is the study of large-scale changes in biological diversity over time, and the study of the origin of evolutionary novelty. Phylogenetics provides a key foundation for asking macroevolutionary questions by providing information about the timing and pattern of biological diversification.
+
+Phylogenetics and macroevolution are inherently interdisciplinary fields that bring together theory and methods in paleontology, development, ecology, and systematics. Perhaps because they represent a union of diverse subfields in evolutionary biology, their history is one rife with debates and contrasting opinions. With a strong foundation in phylogenetic analysis as a starting point, we will discuss many of these controversial subjects in the course of this semester.
+
+Our goal is for all students to leave the course with a solid foundation in theory in phylogenetics and macroevolution, as well as an understanding of current analytical approaches in these areas. We will concentrate on neotological analytical approaches, but an appreciation of work in paleontology that has contributed to questions and debates in phylogenetics and macroevolution will be an important component of the course as well.
+
 ### Phylogenetics Reading Group (PuRGe; BOT 5790)
 
 ![PuRGe]({{ site.url }}/images/PuRGe.jpg)
