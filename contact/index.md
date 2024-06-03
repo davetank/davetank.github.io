@@ -20,6 +20,5 @@ image:
 #### Phone & Email
 <ul style="list-style-type:none">
   <li>Office (Aven Nelson 304)</li>
-  	<ul style="list-style-type:none"> 
-  		<li>307-766-4276</li>
-  		<li>dtank [at] uwyo.edu</li>
+  <li>307-766-4276</li>
+  <li>dtank [at] uwyo.edu</li>
